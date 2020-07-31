@@ -1,0 +1,190 @@
+
+================================================================
+======== FXServer starting - 7/30/2020, 11:23:51 PM
+================================================================
+Creating script environments for _cfx_internal
+Found new resource monitor in /mnt/d/Servidor/server/alpine/opt/cfx-server/citizen//system_resources//monitor
+Found new resource webadmin in /mnt/d/Servidor/server/alpine/opt/cfx-server/citizen//system_resources//webadmin
+Found new resource basic-gamemode in /mnt/d/Servidor/server-data/cfx-server-data/resources//[gamemodes]/basic-gamemode
+Found new resource CarCommand in /mnt/d/Servidor/server-data/cfx-server-data/resources//[gameplay]/CarCommand
+Found new resource chat in /mnt/d/Servidor/server-data/cfx-server-data/resources//[gameplay]/chat
+Found new resource chat-theme-gtao in /mnt/d/Servidor/server-data/cfx-server-data/resources//[gameplay]/chat-theme-gtao
+Found new resource playernames in /mnt/d/Servidor/server-data/cfx-server-data/resources//[gameplay]/playernames
+Found new resource mapmanager in /mnt/d/Servidor/server-data/cfx-server-data/resources//[managers]/mapmanager
+Found new resource spawnmanager in /mnt/d/Servidor/server-data/cfx-server-data/resources//[managers]/spawnmanager
+Found new resource spawnpoint in /mnt/d/Servidor/server-data/cfx-server-data/resources//[managers]/spawnpoint
+Found new resource test in /mnt/d/Servidor/server-data/cfx-server-data/resources//[managers]/test
+Found new resource baseevents in /mnt/d/Servidor/server-data/cfx-server-data/resources//[system]/baseevents
+Found new resource hardcap in /mnt/d/Servidor/server-data/cfx-server-data/resources//[system]/hardcap
+Found new resource rconlog in /mnt/d/Servidor/server-data/cfx-server-data/resources//[system]/rconlog
+Found new resource runcode in /mnt/d/Servidor/server-data/cfx-server-data/resources//[system]/runcode
+Found new resource scoreboard in /mnt/d/Servidor/server-data/cfx-server-data/resources//[system]/scoreboard
+Found new resource sessionmanager in /mnt/d/Servidor/server-data/cfx-server-data/resources//[system]/sessionmanager
+Found new resource sessionmanager-rdr3 in /mnt/d/Servidor/server-data/cfx-server-data/resources//[system]/sessionmanager-rdr3
+Found new resource example-loadscreen in /mnt/d/Servidor/server-data/cfx-server-data/resources//[test]/example-loadscreen
+Found new resource fivem in /mnt/d/Servidor/server-data/cfx-server-data/resources//[test]/fivem
+Found new resource bikelete in /mnt/d/Servidor/server-data/cfx-server-data/resources//[vehicles]/bikelete
+Found new resource fivem-map-hipster in /mnt/d/Servidor/server-data/cfx-server-data/resources//[gamemodes]/[maps]/fivem-map-hipster
+Found new resource fivem-map-skater in /mnt/d/Servidor/server-data/cfx-server-data/resources//[gamemodes]/[maps]/fivem-map-skater
+Found new resource redm-map-one in /mnt/d/Servidor/server-data/cfx-server-data/resources//[gamemodes]/[maps]/redm-map-one
+Found new resource webpack in /mnt/d/Servidor/server-data/cfx-server-data/resources//[system]/[builders]/webpack
+Found new resource yarn in /mnt/d/Servidor/server-data/cfx-server-data/resources//[system]/[builders]/yarn
+Creating script environments for sessionmanager
+Started resource sessionmanager
+Creating script environments for webadmin
+Instantiated instance of script FxWebAdmin.BaseServer.
+Instantiated instance of script FxWebAdmin.HttpServer+HttpServerScript.
+Started resource webadmin
+Creating script environments for monitor
+[txAdminClientJS] Logger started
+[txAdminClientLUA] Version 2.6.1 starting...
+Started resource monitor
+Creating script environments for mapmanager
+Started resource mapmanager
+Creating script environments for chat
+Started resource chat
+Started resource spawnmanager
+Started gametype Freeroam
+Started resource basic-gamemode
+Started resource fivem
+Creating script environments for hardcap
+Started resource hardcap
+Creating script environments for rconlog
+Started resource rconlog
+Started resource scoreboard
+Started resource example-loadscreen
+Started resource spawnpoint
+Started resource CarCommand
+Started resource test
+Could not make hard link for /mnt/d/Servidor/server-data/cfx-server-data/resources//[vehicles]/bikelete/stream//bikelete.yft <-> /mnt/d/Servidor/server-data/cfx-server-data/cache/files/bikelete/stream_cache/zdf5bab95c38cbb4d5c8b3cd589038999fc4b9add.
+Started resource bikelete
+Warning: `onesync_enabled` is deprecated. Please use `onesync legacy` instead.
+Authenticating server license key...
+[txAdminClientLUA] Threads and commands set up. All Ready.
+Server license key authentication succeeded. Welcome!
+Started map fivem-map-hipster
+Started resource fivem-map-hipster
+Authenticating with Nucleus...
+server thread hitch warning: timer interval of 1710 milliseconds
+        fff                          
+  cccc ff   xx  xx     rr rr    eee  
+cc     ffff   xx       rrr  r ee   e 
+cc     ff     xx   ... rr     eeeee  
+ ccccc ff   xx  xx ... rr      eeeee 
+                                     
+Authenticated with cfx.re Nucleus: https://fixpolbr-4amxjo.users.cfx.re/
+[txAdminClientLUA] Sending resources list to txAdmin.
+Stopping resource bikelete
+Started resource bikelete
+[txAdminClientLUA] Sending resources list to txAdmin.
+Connecting: FixpolBR
+Sending heartbeat to https://servers-ingress-live.fivem.net/ingress
+Sending heartbeat to https://servers-ingress-live.fivem.net/ingress
+Connecting: FixpolBR
+Sending heartbeat to https://servers-ingress-live.fivem.net/ingress
+[txAdminClientLUA] Sending resources list to txAdmin.
+[txAdminClientLUA] Sending resources list to txAdmin.
+Found new resource hornet in /mnt/d/Servidor/server-data/cfx-server-data/resources//[vehicles]/hornet
+[txAdminClientLUA] Sending resources list to txAdmin.
+Sending heartbeat to https://servers-ingress-live.fivem.net/ingress
+Started resource hornet
+server thread hitch warning: timer interval of 1042 milliseconds
+[txAdminClientLUA] Sending resources list to txAdmin.
+Stopping resource hornet
+Started resource hornet
+[txAdminClientLUA] Sending resources list to txAdmin.
+Stopping resource hornet
+Started resource hornet
+[txAdminClientLUA] Sending resources list to txAdmin.
+Stopping resource hornet
+[txAdminClientLUA] Sending resources list to txAdmin.
+[txAdminClientLUA] Sending resources list to txAdmin.
+Sending heartbeat to https://servers-ingress-live.fivem.net/ingress
+[txAdminClientLUA] Sending resources list to txAdmin.
+Found new resource l200 in /mnt/d/Servidor/server-data/cfx-server-data/resources//[vehicles]/l200
+[txAdminClientLUA] Sending resources list to txAdmin.
+Started resource l200
+server thread hitch warning: timer interval of 801 milliseconds
+[txAdminClientLUA] Sending resources list to txAdmin.
+Sending heartbeat to https://servers-ingress-live.fivem.net/ingress
+Found new resource lambo in /mnt/d/Servidor/server-data/cfx-server-data/resources//[vehicles]/lambo
+Found new resource s1000rr in /mnt/d/Servidor/server-data/cfx-server-data/resources//[vehicles]/s1000rr
+Found new resource z1000 in /mnt/d/Servidor/server-data/cfx-server-data/resources//[vehicles]/z1000
+[txAdminClientLUA] Sending resources list to txAdmin.
+Started resource lambo
+server thread hitch warning: timer interval of 3140 milliseconds
+[txAdminClientLUA] Sending resources list to txAdmin.
+[txAdminClientLUA] Sending resources list to txAdmin.
+Stopping resource lambo
+Started resource lambo
+[txAdminClientLUA] Sending resources list to txAdmin.
+Sending heartbeat to https://servers-ingress-live.fivem.net/ingress
+Started resource s1000rr
+[txAdminClientLUA] Sending resources list to txAdmin.
+Sending heartbeat to https://servers-ingress-live.fivem.net/ingress
+Started resource z1000
+server thread hitch warning: timer interval of 258 milliseconds
+[txAdminClientLUA] Sending resources list to txAdmin.
+Sending heartbeat to https://servers-ingress-live.fivem.net/ingress
+Found new resource mclaren in /mnt/d/Servidor/server-data/cfx-server-data/resources//[vehicles]/mclaren
+[txAdminClientLUA] Sending resources list to txAdmin.
+Started resource mclaren
+server thread hitch warning: timer interval of 157 milliseconds
+[txAdminClientLUA] Sending resources list to txAdmin.
+Sending heartbeat to https://servers-ingress-live.fivem.net/ingress
+Found new resource gol in /mnt/d/Servidor/server-data/cfx-server-data/resources//[vehicles]/gol
+[txAdminClientLUA] Sending resources list to txAdmin.
+Started resource gol
+server thread hitch warning: timer interval of 192 milliseconds
+[txAdminClientLUA] Sending resources list to txAdmin.
+[txAdminClientLUA] Sending resources list to txAdmin.
+[txAdminClientLUA] Sending resources list to txAdmin.
+Stopping resource gol
+[txAdminClientLUA] Sending resources list to txAdmin.
+Sending heartbeat to https://servers-ingress-live.fivem.net/ingress
+Sending heartbeat to https://servers-ingress-live.fivem.net/ingress
+Sending heartbeat to https://servers-ingress-live.fivem.net/ingress
+Sending heartbeat to https://servers-ingress-live.fivem.net/ingress
+Sending heartbeat to https://servers-ingress-live.fivem.net/ingress
+[txAdminClientLUA] Sending resources list to txAdmin.
+Stopping resource s1000rr
+Started resource s1000rr
+server thread hitch warning: timer interval of 192 milliseconds
+[txAdminClientLUA] Sending resources list to txAdmin.
+Sending heartbeat to https://servers-ingress-live.fivem.net/ingress
+Sending heartbeat to https://servers-ingress-live.fivem.net/ingress
+Found new resource porsche in /mnt/d/Servidor/server-data/cfx-server-data/resources//[vehicles]/porsche
+[txAdminClientLUA] Sending resources list to txAdmin.
+Started resource porsche
+server thread hitch warning: timer interval of 492 milliseconds
+[txAdminClientLUA] Sending resources list to txAdmin.
+Sending heartbeat to https://servers-ingress-live.fivem.net/ingress
+Sending heartbeat to https://servers-ingress-live.fivem.net/ingress
+Found new resource mustang in /mnt/d/Servidor/server-data/cfx-server-data/resources//[vehicles]/mustang
+[txAdminClientLUA] Sending resources list to txAdmin.
+Started resource mustang
+server thread hitch warning: timer interval of 151 milliseconds
+[txAdminClientLUA] Sending resources list to txAdmin.
+Sending heartbeat to https://servers-ingress-live.fivem.net/ingress
+Sending heartbeat to https://servers-ingress-live.fivem.net/ingress
+Found new resource audi_a6 in /mnt/d/Servidor/server-data/cfx-server-data/resources//[vehicles]/audi_a6
+[txAdminClientLUA] Sending resources list to txAdmin.
+Started resource audi_a6
+[txAdminClientLUA] Sending resources list to txAdmin.
+Sending heartbeat to https://servers-ingress-live.fivem.net/ingress
+Sending heartbeat to https://servers-ingress-live.fivem.net/ingress
+Found new resource buggati in /mnt/d/Servidor/server-data/cfx-server-data/resources//[vehicles]/buggati
+[txAdminClientLUA] Sending resources list to txAdmin.
+Started resource buggati
+[txAdminClientLUA] Sending resources list to txAdmin.
+Sending heartbeat to https://servers-ingress-live.fivem.net/ingress
+Stopping resource buggati
+Started resource buggati
+[txAdminClientLUA] Sending resources list to txAdmin.
+Sending heartbeat to https://servers-ingress-live.fivem.net/ingress
+Sending heartbeat to https://servers-ingress-live.fivem.net/ingress
+Sending heartbeat to https://servers-ingress-live.fivem.net/ingress
+Sending heartbeat to https://servers-ingress-live.fivem.net/ingress
+Sending heartbeat to https://servers-ingress-live.fivem.net/ingress
+Sending heartbeat to https://servers-ingress-live.fivem.net/ingress
+Sending heartbeat to https://servers-ingress-live.fivem.net/ingress

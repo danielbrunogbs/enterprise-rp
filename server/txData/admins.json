@@ -1,0 +1,29 @@
+[
+  {
+    "name": "FixpolBR",
+    "master": true,
+    "password_hash": "$2a$11$MBPoKuyD0875t6CP0Bq3sesNhZBU.42QsSoO9X2MyrGaDoUVcMg.W",
+    "providers": {
+      "citizenfx": {
+        "id": "FixpolBR",
+        "data": {
+          "nameid": "https://forum.cfx.re/internal/user/1110094",
+          "name": "FixpolBR",
+          "profile": "https://forum.cfx.re/u/FixpolBR",
+          "picture": "https://avatars.discourse.org/v4/letter/f/13edae/256.png",
+          "sub": "3c7b19e3a44c441aad35fe92ad1b749947e321876e17f402ec1ad5ef64a97014"
+        }
+      }
+    },
+    "permissions": []
+  },
+  {
+    "name": "zFryze",
+    "master": false,
+    "password_hash": "$2a$11$ke9UqcWaduYslwZ9nDsYheXLY0nGu9iAp/bXWa.cQFpInjystCvUO",
+    "providers": {},
+    "permissions": [
+      "all_permissions"
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+{
+  "global": {
+    "serverName": "Enterprise RP",
+    "language": "pt_BR"
+  },
+  "logger": {},
+  "monitor": {
+    "restarterSchedule": [],
+    "heartBeat": {
+      "failThreshold": 15,
+      "failLimit": 30
+    },
+    "healthCheck": {
+      "failThreshold": 15,
+      "failLimit": 300
+    }
+  },
+  "playerController": {
+    "onJoinCheckBan": true,
+    "onJoinCheckWhitelist": false,
+    "minSessionTime": 15,
+    "whitelistRejectionMessage": "You are not yet whitelisted in this server.\nPlease join http://discord.gg/example.\n<strong>Your ID: <id></strong>",
+    "wipePendingWLOnStart": true
+  },
+  "authenticator": {},
+  "webServer": {},
+  "discordBot": {
+    "enabled": false,
+    "prefix": "/",
+    "statusMessage": "**IP:** `change-me:<port>`\n**Players:** <players>\n**Uptime:** <uptime>"
+  },
+  "fxRunner": {
+    "onesync": false,
+    "autostart": true,
+    "quiet": false,
+    "serverDataPath": "/mnt/d/Servidor/server-data/cfx-server-data/",
+    "cfgPath": "/mnt/d/Servidor/server-data/server.cfg"
+  }
+}

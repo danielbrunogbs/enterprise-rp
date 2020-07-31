@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ShopVehicleDataArray>
+	<Vehicles>
+		<Item>
+			<lockHash>CU_TRITONHPE_VEH</lockHash>
+			<modelNameHash>tritonhpe</modelNameHash>
+			<cost value ="50000"/>
+			<textLabel>TRITONHPE</textLabel>
+			<vehicleMods></vehicleMods>
+		</Item>
+	</Vehicles>	
+</ShopVehicleDataArray>
