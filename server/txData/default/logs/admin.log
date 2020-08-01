@@ -5,3 +5,46 @@
 [21:39:53][127.0.0.1][FixpolBR] Changing global/fxserver settings via welcome stepper.
 [21:40:15][127.0.0.1][FixpolBR] ensure "porsche"
 [21:40:21][127.0.0.1][FixpolBR] ensure "bikelete"
+
+================================================================
+======== txAdmin starting - 7/31/2020, 9:45:40 PM
+================================================================
+[21:46:00][127.0.0.1][FixpolBR] ensure "porsche"
+[21:46:08][127.0.0.1][FixpolBR] ensure "bikelete"
+[22:24:32][127.0.0.1][FixpolBR] Adding admin 'zFryze'.
+[23:05:29][127.0.0.1][FixpolBR] refresh
+[23:05:42][127.0.0.1][FixpolBR] ensure "gol"
+[23:12:21][127.0.0.1][FixpolBR] refresh
+[23:12:26][127.0.0.1][FixpolBR] ensure "porsche_panamera"
+[23:16:40][127.0.0.1][FixpolBR] refresh
+[23:16:44][127.0.0.1][FixpolBR] ensure "porsche_cayenne"
+[23:17:32][127.0.0.1][FixpolBR] ensure "porsche_cayenne"
+[23:20:27][127.0.0.1][FixpolBR] refresh
+[23:20:34][127.0.0.1][FixpolBR] ensure "porsche_cayenne"
+[23:32:05][127.0.0.1][FixpolBR] ensure "buggati"
+[23:32:28][127.0.0.1][FixpolBR] ensure "buggati"
+[23:32:45][127.0.0.1][FixpolBR] ensure "buggati"
+[23:40:07][127.0.0.1][FixpolBR] refresh
+[23:40:11][127.0.0.1][FixpolBR] ensure "mustang"
+[23:47:45][127.0.0.1][FixpolBR] refresh
+[23:47:53][127.0.0.1][FixpolBR] ensure "urus"
+[23:47:57][127.0.0.1][FixpolBR] ensure "160"
+[23:48:02][127.0.0.1][FixpolBR] ensure "gol_g5"
+[23:48:05][127.0.0.1][FixpolBR] ensure "jetta"
+[23:48:09][127.0.0.1][FixpolBR] ensure "lancer"
+[00:13:41][127.0.0.1][FixpolBR] refresh
+[00:13:48][127.0.0.1][FixpolBR] ensure "bmw_m5"
+[00:13:51][127.0.0.1][FixpolBR] ensure "bmw_x6"
+[00:13:55][127.0.0.1][FixpolBR] ensure "civic"
+[00:13:58][127.0.0.1][FixpolBR] ensure "ferrari_italia"
+[00:14:02][127.0.0.1][FixpolBR] ensure "golf"
+[00:14:06][127.0.0.1][FixpolBR] ensure "h2r"
+[00:14:10][127.0.0.1][FixpolBR] ensure "hillux_rota"
+[00:14:14][127.0.0.1][FixpolBR] ensure "hornet"
+[00:14:18][127.0.0.1][FixpolBR] ensure "huracan"
+[00:14:23][127.0.0.1][FixpolBR] ensure "r1200"
+[00:14:28][127.0.0.1][FixpolBR] ensure "samu"
+[00:14:32][127.0.0.1][FixpolBR] ensure "xj6"
+[00:14:37][127.0.0.1][FixpolBR] ensure "xt660"
+[00:18:31][127.0.0.1][FixpolBR] ensure "z1000"
+[00:18:36][127.0.0.1][FixpolBR] ensure "z1000"

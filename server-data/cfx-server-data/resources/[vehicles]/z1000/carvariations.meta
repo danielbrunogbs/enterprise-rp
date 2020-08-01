@@ -2,17 +2,57 @@
 
 <CVehicleModelInfoVariation>
   <variationData>
-    <Item>
-      <modelName>z10</modelName>
+     <Item>
+      <modelName>z1000</modelName>
       <colors>
-        <Item>
+	    <Item>
           <indices content="char_array">
-            0
-            0
-            6
-            0
+            12
+            38
+            156
+            156 
           </indices>
           <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            12
+            55
+            156
+            156 
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            38
+            23
+            156
+            156 
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
             <Item value="false" />
             <Item value="false" />
             <Item value="false" />
@@ -21,36 +61,29 @@
         </Item>
       </colors>
       <kits>
-        <Item>511_z10_modkit</Item>
+        <Item>1017_z1000_modkit</Item>
       </kits>
       <windowsWithExposedEdges />
-      <plateProbabilities />
-      <lightSettings value="0" />
-      <sirenSettings value="0" />
-    </Item>
-    <Item>
-      <modelName>z10</modelName>
-      <colors>
-        <Item>
-          <indices content="char_array">
-            27
-            27
-            0 
-            27
-          </indices>
-          <liveries>
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-          </liveries>
-        </Item>
-      </colors>
-      <kits>
-        <Item>509_z10_modkit</Item>
-      </kits>
-      <windowsWithExposedEdges />
-      <plateProbabilities />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="25" />
+          </Item>
+          <Item>
+            <Name>White Plate 2</Name>
+            <Value value="50" />
+          </Item>
+          <Item>
+            <Name>Blue Plate</Name>
+            <Value value="10" />
+          </Item>
+          <Item>
+            <Name>Yellow Plate</Name>
+            <Value value="15" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
       <lightSettings value="0" />
       <sirenSettings value="0" />
     </Item>

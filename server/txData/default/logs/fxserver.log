@@ -1,6 +1,6 @@
 
 ================================================================
-======== FXServer starting - 7/31/2020, 9:39:53 PM
+======== FXServer starting - 7/31/2020, 9:45:42 PM
 ================================================================
 Creating script environments for _cfx_internal
 Found new resource monitor in /mnt/d/Projetos/enterprise-rp/server/alpine/opt/cfx-server/citizen//system_resources//monitor
@@ -80,10 +80,10 @@ Warning: `onesync_enabled` is deprecated. Please use `onesync legacy` instead.
 Authenticating server license key...
 [txAdminClientLUA] Threads and commands set up. All Ready.
 Server license key authentication succeeded. Welcome!
-Started map fivem-map-skater
-Started resource fivem-map-skater
+Started map fivem-map-hipster
+Started resource fivem-map-hipster
 Authenticating with Nucleus...
-server thread hitch warning: timer interval of 2712 milliseconds
+server thread hitch warning: timer interval of 1526 milliseconds
         fff                          
   cccc ff   xx  xx     rr rr    eee  
 cc     ffff   xx       rrr  r ee   e 
@@ -93,8 +93,199 @@ cc     ff     xx   ... rr     eeeee
 Authenticated with cfx.re Nucleus: https://fixpolbr-4amxjo.users.cfx.re/
 [txAdminClientLUA] Sending resources list to txAdmin.
 Started resource porsche
-server thread hitch warning: timer interval of 868 milliseconds
 [txAdminClientLUA] Sending resources list to txAdmin.
 Stopping resource bikelete
 Started resource bikelete
 [txAdminClientLUA] Sending resources list to txAdmin.
+Connecting: FixpolBR
+Sending heartbeat to https://servers-ingress-live.fivem.net/ingress
+Sending heartbeat to https://servers-ingress-live.fivem.net/ingress
+Sending heartbeat to https://servers-ingress-live.fivem.net/ingress
+Sending heartbeat to https://servers-ingress-live.fivem.net/ingress
+Sending heartbeat to https://servers-ingress-live.fivem.net/ingress
+Sending heartbeat to https://servers-ingress-live.fivem.net/ingress
+Sending heartbeat to https://servers-ingress-live.fivem.net/ingress
+Sending heartbeat to https://servers-ingress-live.fivem.net/ingress
+Sending heartbeat to https://servers-ingress-live.fivem.net/ingress
+Sending heartbeat to https://servers-ingress-live.fivem.net/ingress
+Sending heartbeat to https://servers-ingress-live.fivem.net/ingress
+Sending heartbeat to https://servers-ingress-live.fivem.net/ingress
+Sending heartbeat to https://servers-ingress-live.fivem.net/ingress
+Sending heartbeat to https://servers-ingress-live.fivem.net/ingress
+Sending heartbeat to https://servers-ingress-live.fivem.net/ingress
+A client has tried to authenticate using Steam, but `steam_webApiKey` is unset. Please set steam_webApiKey to a Steam Web API key as registered on Valve's https://steamcommunity.com/dev/apikey web page. Steam identifier information will be unavailable otherwise.
+To suppress this message, `set steam_webApiKey "none"`.
+Connecting: Bé
+Sending heartbeat to https://servers-ingress-live.fivem.net/ingress
+Sending heartbeat to https://servers-ingress-live.fivem.net/ingress
+Sending heartbeat to https://servers-ingress-live.fivem.net/ingress
+Sending heartbeat to https://servers-ingress-live.fivem.net/ingress
+Sending heartbeat to https://servers-ingress-live.fivem.net/ingress
+Sending heartbeat to https://servers-ingress-live.fivem.net/ingress
+Sending heartbeat to https://servers-ingress-live.fivem.net/ingress
+FixpolBR: bpursport
+Sending heartbeat to https://servers-ingress-live.fivem.net/ingress
+Sending heartbeat to https://servers-ingress-live.fivem.net/ingress
+Sending heartbeat to https://servers-ingress-live.fivem.net/ingress
+Sending heartbeat to https://servers-ingress-live.fivem.net/ingress
+Sending heartbeat to https://servers-ingress-live.fivem.net/ingress
+[txAdminClientLUA] Sending resources list to txAdmin.
+Found new resource gol in /mnt/d/Projetos/enterprise-rp/server-data/cfx-server-data/resources//[vehicles]/gol
+[txAdminClientLUA] Sending resources list to txAdmin.
+Started resource gol
+server thread hitch warning: timer interval of 156 milliseconds
+[txAdminClientLUA] Sending resources list to txAdmin.
+Sending heartbeat to https://servers-ingress-live.fivem.net/ingress
+Sending heartbeat to https://servers-ingress-live.fivem.net/ingress
+Found new resource porsche_panamera in /mnt/d/Projetos/enterprise-rp/server-data/cfx-server-data/resources//[vehicles]/porsche_panamera
+[txAdminClientLUA] Sending resources list to txAdmin.
+Started resource porsche_panamera
+server thread hitch warning: timer interval of 1064 milliseconds
+[txAdminClientLUA] Sending resources list to txAdmin.
+Sending heartbeat to https://servers-ingress-live.fivem.net/ingress
+Found new resource porsche_cayenne in /mnt/d/Projetos/enterprise-rp/server-data/cfx-server-data/resources//[vehicles]/porsche_cayenne
+[txAdminClientLUA] Sending resources list to txAdmin.
+Started resource porsche_cayenne
+server thread hitch warning: timer interval of 213 milliseconds
+[txAdminClientLUA] Sending resources list to txAdmin.
+Sending heartbeat to https://servers-ingress-live.fivem.net/ingress
+Stopping resource porsche_cayenne
+Started resource porsche_cayenne
+[txAdminClientLUA] Sending resources list to txAdmin.
+Sending heartbeat to https://servers-ingress-live.fivem.net/ingress
+[txAdminClientLUA] Sending resources list to txAdmin.
+Stopping resource porsche_cayenne
+Started resource porsche_cayenne
+server thread hitch warning: timer interval of 345 milliseconds
+[txAdminClientLUA] Sending resources list to txAdmin.
+Sending heartbeat to https://servers-ingress-live.fivem.net/ingress
+Sending heartbeat to https://servers-ingress-live.fivem.net/ingress
+Sending heartbeat to https://servers-ingress-live.fivem.net/ingress
+Stopping resource buggati
+Started resource buggati
+Sending heartbeat to https://servers-ingress-live.fivem.net/ingress
+[txAdminClientLUA] Sending resources list to txAdmin.
+Stopping resource buggati
+Started resource buggati
+[txAdminClientLUA] Sending resources list to txAdmin.
+Stopping resource buggati
+Started resource buggati
+[txAdminClientLUA] Sending resources list to txAdmin.
+Sending heartbeat to https://servers-ingress-live.fivem.net/ingress
+Sending heartbeat to https://servers-ingress-live.fivem.net/ingress
+[txAdminClientLUA] Sending resources list to txAdmin.
+Stopping resource mustang
+Started resource mustang
+server thread hitch warning: timer interval of 265 milliseconds
+[txAdminClientLUA] Sending resources list to txAdmin.
+Sending heartbeat to https://servers-ingress-live.fivem.net/ingress
+Sending heartbeat to https://servers-ingress-live.fivem.net/ingress
+Sending heartbeat to https://servers-ingress-live.fivem.net/ingress
+Found new resource 160 in /mnt/d/Projetos/enterprise-rp/server-data/cfx-server-data/resources//[vehicles]/160
+Found new resource gol_g5 in /mnt/d/Projetos/enterprise-rp/server-data/cfx-server-data/resources//[vehicles]/gol_g5
+Found new resource jetta in /mnt/d/Projetos/enterprise-rp/server-data/cfx-server-data/resources//[vehicles]/jetta
+Found new resource lancer in /mnt/d/Projetos/enterprise-rp/server-data/cfx-server-data/resources//[vehicles]/lancer
+Found new resource urus in /mnt/d/Projetos/enterprise-rp/server-data/cfx-server-data/resources//[vehicles]/urus
+[txAdminClientLUA] Sending resources list to txAdmin.
+Started resource urus
+server thread hitch warning: timer interval of 239 milliseconds
+[txAdminClientLUA] Sending resources list to txAdmin.
+Started resource 160
+server thread hitch warning: timer interval of 183 milliseconds
+[txAdminClientLUA] Sending resources list to txAdmin.
+Started resource gol_g5
+[txAdminClientLUA] Sending resources list to txAdmin.
+Started resource jetta
+server thread hitch warning: timer interval of 179 milliseconds
+[txAdminClientLUA] Sending resources list to txAdmin.
+Started resource lancer
+[txAdminClientLUA] Sending resources list to txAdmin.
+Connecting: FixpolBR
+Sending heartbeat to https://servers-ingress-live.fivem.net/ingress
+A client has tried to authenticate using Steam, but `steam_webApiKey` is unset. Please set steam_webApiKey to a Steam Web API key as registered on Valve's https://steamcommunity.com/dev/apikey web page. Steam identifier information will be unavailable otherwise.
+To suppress this message, `set steam_webApiKey "none"`.
+Connecting: Bé
+Sending heartbeat to https://servers-ingress-live.fivem.net/ingress
+Sending heartbeat to https://servers-ingress-live.fivem.net/ingress
+Sending heartbeat to https://servers-ingress-live.fivem.net/ingress
+Sending heartbeat to https://servers-ingress-live.fivem.net/ingress
+Sending heartbeat to https://servers-ingress-live.fivem.net/ingress
+Sending heartbeat to https://servers-ingress-live.fivem.net/ingress
+Sending heartbeat to https://servers-ingress-live.fivem.net/ingress
+Sending heartbeat to https://servers-ingress-live.fivem.net/ingress
+Found new resource bmw_m5 in /mnt/d/Projetos/enterprise-rp/server-data/cfx-server-data/resources//[vehicles]/bmw_m5
+Found new resource bmw_x6 in /mnt/d/Projetos/enterprise-rp/server-data/cfx-server-data/resources//[vehicles]/bmw_x6
+Found new resource civic in /mnt/d/Projetos/enterprise-rp/server-data/cfx-server-data/resources//[vehicles]/civic
+Found new resource ferrari_italia in /mnt/d/Projetos/enterprise-rp/server-data/cfx-server-data/resources//[vehicles]/ferrari_italia
+Found new resource golf in /mnt/d/Projetos/enterprise-rp/server-data/cfx-server-data/resources//[vehicles]/golf
+Found new resource h2r in /mnt/d/Projetos/enterprise-rp/server-data/cfx-server-data/resources//[vehicles]/h2r
+Found new resource hillux_rota in /mnt/d/Projetos/enterprise-rp/server-data/cfx-server-data/resources//[vehicles]/hillux_rota
+Found new resource hornet in /mnt/d/Projetos/enterprise-rp/server-data/cfx-server-data/resources//[vehicles]/hornet
+Found new resource huracan in /mnt/d/Projetos/enterprise-rp/server-data/cfx-server-data/resources//[vehicles]/huracan
+Found new resource r1200 in /mnt/d/Projetos/enterprise-rp/server-data/cfx-server-data/resources//[vehicles]/r1200
+Found new resource samu in /mnt/d/Projetos/enterprise-rp/server-data/cfx-server-data/resources//[vehicles]/samu
+Found new resource xj6 in /mnt/d/Projetos/enterprise-rp/server-data/cfx-server-data/resources//[vehicles]/xj6
+Found new resource xt660 in /mnt/d/Projetos/enterprise-rp/server-data/cfx-server-data/resources//[vehicles]/xt660
+[txAdminClientLUA] Sending resources list to txAdmin.
+Started resource bmw_m5
+server thread hitch warning: timer interval of 308 milliseconds
+[txAdminClientLUA] Sending resources list to txAdmin.
+Sending heartbeat to https://servers-ingress-live.fivem.net/ingress
+Started resource bmw_x6
+server thread hitch warning: timer interval of 275 milliseconds
+[txAdminClientLUA] Sending resources list to txAdmin.
+Started resource civic
+server thread hitch warning: timer interval of 182 milliseconds
+[txAdminClientLUA] Sending resources list to txAdmin.
+Started resource ferrari_italia
+server thread hitch warning: timer interval of 274 milliseconds
+[txAdminClientLUA] Sending resources list to txAdmin.
+Started resource golf
+server thread hitch warning: timer interval of 313 milliseconds
+[txAdminClientLUA] Sending resources list to txAdmin.
+Started resource h2r
+server thread hitch warning: timer interval of 175 milliseconds
+[txAdminClientLUA] Sending resources list to txAdmin.
+Started resource hillux_rota
+[txAdminClientLUA] Sending resources list to txAdmin.
+Started resource hornet
+server thread hitch warning: timer interval of 196 milliseconds
+[txAdminClientLUA] Sending resources list to txAdmin.
+Started resource huracan
+server thread hitch warning: timer interval of 187 milliseconds
+[txAdminClientLUA] Sending resources list to txAdmin.
+Started resource r1200
+server thread hitch warning: timer interval of 194 milliseconds
+[txAdminClientLUA] Sending resources list to txAdmin.
+Started resource samu
+server thread hitch warning: timer interval of 363 milliseconds
+[txAdminClientLUA] Sending resources list to txAdmin.
+Started resource xj6
+server thread hitch warning: timer interval of 178 milliseconds
+[txAdminClientLUA] Sending resources list to txAdmin.
+Started resource xt660
+server thread hitch warning: timer interval of 250 milliseconds
+[txAdminClientLUA] Sending resources list to txAdmin.
+Sending heartbeat to https://servers-ingress-live.fivem.net/ingress
+Stopping resource z1000
+Started resource z1000
+[txAdminClientLUA] Sending resources list to txAdmin.
+Stopping resource z1000
+Started resource z1000
+[txAdminClientLUA] Sending resources list to txAdmin.
+Sending heartbeat to https://servers-ingress-live.fivem.net/ingress
+Sending heartbeat to https://servers-ingress-live.fivem.net/ingress
+Sending heartbeat to https://servers-ingress-live.fivem.net/ingress
+Sending heartbeat to https://servers-ingress-live.fivem.net/ingress
+Sending heartbeat to https://servers-ingress-live.fivem.net/ingress
+Sending heartbeat to https://servers-ingress-live.fivem.net/ingress
+Sending heartbeat to https://servers-ingress-live.fivem.net/ingress
+Sending heartbeat to https://servers-ingress-live.fivem.net/ingress
+Sending heartbeat to https://servers-ingress-live.fivem.net/ingress
+Sending heartbeat to https://servers-ingress-live.fivem.net/ingress
+Sending heartbeat to https://servers-ingress-live.fivem.net/ingress
+Sending heartbeat to https://servers-ingress-live.fivem.net/ingress
+Sending heartbeat to https://servers-ingress-live.fivem.net/ingress
+Sending heartbeat to https://servers-ingress-live.fivem.net/ingress
+Sending heartbeat to https://servers-ingress-live.fivem.net/ingress
+Sending heartbeat to https://servers-ingress-live.fivem.net/ingress

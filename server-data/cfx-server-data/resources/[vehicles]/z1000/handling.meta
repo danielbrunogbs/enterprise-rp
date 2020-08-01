@@ -3,7 +3,7 @@
 <CHandlingDataMgr>
   <HandlingData>
     <Item type="CHandlingData">
-      <handlingName>z10</handlingName>
+      <handlingName>z1000</handlingName>
       <fMass value="250.000000" />
       <fInitialDragCoeff value="8.500000" />
       <fPercentSubmerged value="95.000000" />
