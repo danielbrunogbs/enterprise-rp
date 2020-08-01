@@ -16,5 +16,15 @@
       }
     },
     "permissions": []
+  },
+  {
+    "name": "zFryze",
+    "master": false,
+    "password_hash": "$2a$11$utHz1K6KZZteaoDmkVQR2.66.1wRuw.ODgUPuK0l/a1PjHGJPpC62",
+    "password_temporary": true,
+    "providers": {},
+    "permissions": [
+      "all_permissions"
+    ]
   }
 ]
