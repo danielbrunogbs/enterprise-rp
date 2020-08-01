@@ -2,7 +2,7 @@
   {
     "name": "FixpolBR",
     "master": true,
-    "password_hash": "$2a$11$MBPoKuyD0875t6CP0Bq3sesNhZBU.42QsSoO9X2MyrGaDoUVcMg.W",
+    "password_hash": "$2a$11$OxReuicp57CH5S0pQ89kzefLimgRb0q1aHYv2EmKaKvAXY7hG9DfG",
     "providers": {
       "citizenfx": {
         "id": "FixpolBR",
@@ -16,14 +16,5 @@
       }
     },
     "permissions": []
-  },
-  {
-    "name": "zFryze",
-    "master": false,
-    "password_hash": "$2a$11$ke9UqcWaduYslwZ9nDsYheXLY0nGu9iAp/bXWa.cQFpInjystCvUO",
-    "providers": {},
-    "permissions": [
-      "all_permissions"
-    ]
   }
 ]

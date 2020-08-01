@@ -1,7 +1,7 @@
 {
   "global": {
     "serverName": "Enterprise RP",
-    "language": "pt_BR"
+    "language": "en"
   },
   "logger": {},
   "monitor": {
@@ -33,7 +33,7 @@
     "onesync": false,
     "autostart": true,
     "quiet": false,
-    "serverDataPath": "/mnt/d/Servidor/server-data/cfx-server-data/",
-    "cfgPath": "/mnt/d/Servidor/server-data/server.cfg"
+    "serverDataPath": "/mnt/d/Projetos/enterprise-rp/server-data/cfx-server-data/",
+    "cfgPath": "/mnt/d/Projetos/enterprise-rp/server-data/server.cfg"
   }
 }
