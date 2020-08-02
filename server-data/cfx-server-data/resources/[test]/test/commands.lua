@@ -55,7 +55,6 @@ end)
 RegisterCommand('boom', function(source, args, rawCommand)
 
 	vehicle = GetVehiclePedIsUsing(ped)
-	-- hash = GetHashKey(vehicle)
 
 	ExplodeVehicleInCutscene(vehicle, 1)
 
