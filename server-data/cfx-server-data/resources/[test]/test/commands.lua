@@ -62,26 +62,14 @@ RegisterCommand('boom', function(source, args, rawCommand)
 
 end)
 
--- NÃO DEIXA O PLAYER ENTRAR EM UM VEICULO
+RegisterCommand('repair', function(source, args, rawCommand)
 
--- Citizen.CreateThread(function()
+	vehicle = GetVehiclePedIsUsing(ped)
 
--- 	while true do
+	SetVehicleFixed(vehicle)
 
--- 		local status = IsPedInAnyVehicle(ped, false)
+	ShowNotification('Seu veículo foi modificado!')
 
--- 		if status then
+end)
 
--- 			local vehicle = GetVehiclePedIsUsing(ped)
-
--- 			SetVehicleEngineOn(vehicle, false, true, true)
-
--- 			ShowNotification('Seu carro foi alterado')
-
--- 		end
-
--- 		Citizen.Wait(1000)
-
--- 	end
-
--- end)
+exports('ShowNotification', ShowNotification)
