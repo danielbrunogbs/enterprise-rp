@@ -1,0 +1,21 @@
+[
+  {
+    "name": "FixpolBR",
+    "master": true,
+    "password_hash": "$2a$11$1d3q3Il25ksKCLx2mq.7TuPaDAXW0yfUoDBVPVbJpwq5TJ7ZdAwny",
+    "providers": {
+      "citizenfx": {
+        "id": "FixpolBR",
+        "identifier": "fivem:1110094",
+        "data": {
+          "sub": "f0ce19fcb659d205d7c0368b13351645",
+          "nameid": "https://forum.cfx.re/internal/user/1110094",
+          "name": "FixpolBR",
+          "picture": "https://avatars.discourse.org/v4/letter/f/7933a0/256.png",
+          "profile": "https://forum.cfx.re/u/FixpolBR"
+        }
+      }
+    },
+    "permissions": []
+  }
+]

@@ -1,0 +1,27 @@
+fx_version 'cerulean'
+
+games { 'gta5' }
+
+author 'Daniel Bruno <danielbrunogbs@gmail.com>'
+description 'Ferrari'
+version '1.0.0'
+ 
+files {
+    'vehicles.meta',
+    'carvariations.meta',
+    'carcols.meta',
+    'handling.meta',
+    'vehiclelayouts.meta',
+    'caraddoncontentunlocks.meta',
+    'dlctext.meta',
+    'rs6contentunlocks.meta'
+}
+ 
+data_file 'HANDLING_FILE' 'handling.meta'
+data_file 'VEHICLE_METADATA_FILE' 'vehicles.meta'
+data_file 'CARCOLS_FILE' 'carcols.meta'
+data_file 'VEHICLE_VARIATION_FILE' 'carvariations.meta'
+data_file 'VEHICLE_LAYOUTS_FILE' 'vehiclelayouts.META'
+data_file 'CONTENT_UNLOCKING_META_FILE' 'rs6contentunlocks.meta'
+ 
+-- client_script 'vehicle_names.lua'

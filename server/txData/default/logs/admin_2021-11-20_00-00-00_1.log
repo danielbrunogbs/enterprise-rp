@@ -1,0 +1,37 @@
+
+================================================================
+======== txAdmin Starting - 11/20/2021, 7:09:27 PM              
+================================================================
+
+================================================================
+======== Log Rotated - 11/20/2021, 7:09:27 PM                   
+================================================================
+[19:10:12] [FixpolBR] logged in from 127.0.0.1 via password
+
+================================================================
+======== txAdmin Starting - 11/20/2021, 8:40:24 PM              
+================================================================
+[21:06:35] [FixpolBR] logged in from 127.0.0.1 via password
+[21:06:57] [FixpolBR] DM to #2: Teste
+[21:07:22] [FixpolBR] ensure "test"
+[21:07:39] [FixpolBR] stop "test"
+[21:07:44] [FixpolBR] ensure "test"
+[21:09:07] [FixpolBR] ensure "test"
+[21:11:33] [FixpolBR] ensure "test"
+[21:12:05] [FixpolBR] RESTART SERVER
+[21:12:24] [FixpolBR] ensure "test"
+[21:13:32] [FixpolBR] ensure "test"
+[21:15:28] [FixpolBR] ensure "test"
+[21:18:34] [FixpolBR] ensure "test"
+[21:18:56] [FixpolBR] ensure "test"
+[21:21:55] [FixpolBR] RESTART SERVER
+[21:23:38] [FixpolBR] ensure "test"
+[21:26:22] [FixpolBR] ensure "test"
+[21:35:43] [FixpolBR] ensure "test"
+[21:35:53] [FixpolBR] RESTART SERVER
+[21:37:58] [FixpolBR] ensure "test"
+[21:38:12] [FixpolBR] RESTART SERVER
+[21:40:18] [FixpolBR] RESTART SERVER
+[21:49:25] [FixpolBR] RESTART SERVER
+[21:49:44] [FixpolBR] RESTART SERVER
+[22:12:22] [FixpolBR] STOP SERVER

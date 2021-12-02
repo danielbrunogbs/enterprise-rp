@@ -1,0 +1,295 @@
+
+================================================================
+======== FXServer Starting - 11/18/2021, 11:44:29 PM            
+================================================================
+[    c-scripting-core] Creating script environments for _cfx_internal
+[ citizen-server-impl] Scanning resources.
+[ citizen-server-impl] Found 54 resources.
+[ citizen-server-impl] Some resources have an outdated resource manifest:
+[ citizen-server-impl]     - baseevents
+[ citizen-server-impl]     - new-banking
+[ citizen-server-impl]     - object-loader
+[ citizen-server-impl]     - sessionmanager
+[ citizen-server-impl] 
+[ citizen-server-impl] Please update these resources.
+[          svadhesive] Authenticating server license key...
+[          svadhesive] Server license key authentication succeeded. Welcome!
+[    c-scripting-core] Creating script environments for sessionmanager
+[ citizen-server-impl] Started resource sessionmanager
+[    c-scripting-core] Creating script environments for monitor
+[      script:monitor] [txAdminClient] Version 4.8.0 starting...
+[ citizen-server-impl] Started resource monitor
+[    c-scripting-core] Creating script environments for mapmanager
+[ citizen-server-impl] Started resource mapmanager
+[    c-scripting-core] Creating script environments for chat
+[ citizen-server-impl] Started resource chat
+[ citizen-server-impl] Started resource spawnmanager
+[   script:mapmanager] Started gametype Freeroam
+[ citizen-server-impl] Started resource basic-gamemode
+[ citizen-server-impl] Started resource fivem
+[    c-scripting-core] Creating script environments for hardcap
+[ citizen-server-impl] Started resource hardcap
+[    c-scripting-core] Creating script environments for rconlog
+[ citizen-server-impl] Started resource rconlog
+[ citizen-server-impl] Started resource scoreboard
+[ citizen-server-impl] Started resource example-loadscreen
+[ citizen-server-impl] Started resource spawnpoint
+[ citizen-server-impl] Started resource CarCommand
+[ citizen-server-impl] Started resource test
+[ citizen-server-impl] Asset audi_a6/a6.ytd uses 29.0 MiB of physical memory.
+[ citizen-server-impl] Asset audi_a6/a6_hi.yft uses 16.8 MiB of virtual memory.
+[ citizen-server-impl] Started resource audi_a6
+[ citizen-server-impl] Started resource bikelete
+[ citizen-server-impl] Asset bmw_m5/m5e60.yft uses 20.2 MiB of virtual memory.
+[ citizen-server-impl] Asset bmw_m5/m5e60.ytd uses 16.5 MiB of physical memory.
+[ citizen-server-impl] Asset bmw_m5/m5e60_hi.yft uses 18.2 MiB of virtual memory.
+[ citizen-server-impl] Asset bmw_m5/sultan.yft uses 20.2 MiB of virtual memory.
+[ citizen-server-impl] Asset bmw_m5/sultan.ytd uses 16.5 MiB of physical memory.
+[ citizen-server-impl] Asset bmw_m5/sultan_hi.yft uses 18.2 MiB of virtual memory.
+[ citizen-server-impl] Started resource bmw_m5
+[ citizen-server-impl] Asset bmw_x6/x6m.yft uses 30.5 MiB of virtual memory.
+[ citizen-server-impl] Asset bmw_x6/x6m.ytd uses 48.5 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').
+[ citizen-server-impl] Asset bmw_x6/x6m_hi.yft uses 22.1 MiB of virtual memory.
+[ citizen-server-impl] Asset bmw_x6/xls.yft uses 30.5 MiB of virtual memory.
+[ citizen-server-impl] Asset bmw_x6/xls.ytd uses 48.5 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').
+[ citizen-server-impl] Asset bmw_x6/xls_hi.yft uses 22.1 MiB of virtual memory.
+[ citizen-server-impl] Started resource bmw_x6
+[ citizen-server-impl] Started resource buggati
+[ citizen-server-impl] Asset civic/stanier.yft uses 31.0 MiB of virtual memory.
+[ citizen-server-impl] Asset civic/stanier.ytd uses 49.2 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').
+[ citizen-server-impl] Asset civic/stanier_hi.yft uses 31.0 MiB of virtual memory.
+[ citizen-server-impl] Started resource civic
+[ citizen-server-impl] Asset gol/blista.yft uses 29.2 MiB of virtual memory.
+[ citizen-server-impl] Asset gol/blista.ytd uses 29.8 MiB of physical memory.
+[ citizen-server-impl] Started resource gol
+[ citizen-server-impl] Asset gol_g5/blista2.ytd uses 44.0 MiB of physical memory.
+[ citizen-server-impl] Started resource gol_g5
+[ citizen-server-impl] Asset golf/sultan.yft uses 29.8 MiB of virtual memory.
+[ citizen-server-impl] Asset golf/sultan.ytd uses 116.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').
+[ citizen-server-impl] Asset golf/sultan_hi.yft uses 29.8 MiB of virtual memory.
+[ citizen-server-impl] Started resource golf
+[ citizen-server-impl] Asset h2r/ninjah2.yft uses 31.8 MiB of virtual memory.
+[ citizen-server-impl] Asset h2r/ninjah2_hi.yft uses 31.8 MiB of virtual memory.
+[ citizen-server-impl] Started resource h2r
+[ citizen-server-impl] Asset hillux_rota/sheriff2+hi.ytd uses 48.0 MiB of physical memory.
+[ citizen-server-impl] Asset hillux_rota/sheriff2.yft uses 17.0 MiB of virtual memory.
+[ citizen-server-impl] Asset hillux_rota/sheriff2.ytd uses 48.0 MiB of physical memory.
+[ citizen-server-impl] Asset hillux_rota/sheriff2_hi.yft uses 17.0 MiB of virtual memory.
+[ citizen-server-impl] Started resource hillux_rota
+[ citizen-server-impl] Asset hornet/vader.yft uses 32.2 MiB of virtual memory.
+[ citizen-server-impl] Asset hornet/vader_hi.yft uses 32.2 MiB of virtual memory.
+[ citizen-server-impl] Started resource hornet
+[ citizen-server-impl] Asset huracan/lp610.ytd uses 122.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').
+[ citizen-server-impl] Asset huracan/lp610_hi.yft uses 29.5 MiB of virtual memory.
+[ citizen-server-impl] Started resource huracan
+[ citizen-server-impl] Asset jetta/asterope.yft uses 31.5 MiB of virtual memory.
+[ citizen-server-impl] Asset jetta/asterope_hi.yft uses 31.5 MiB of virtual memory.
+[ citizen-server-impl] Started resource jetta
+[ citizen-server-impl] Asset l200/tritonhpe.yft uses 20.5 MiB of virtual memory.
+[ citizen-server-impl] Asset l200/tritonhpe.ytd uses 104.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').
+[ citizen-server-impl] Asset l200/tritonhpe_hi.yft uses 20.5 MiB of virtual memory.
+[ citizen-server-impl] Started resource l200
+[ citizen-server-impl] Started resource lancer
+[ citizen-server-impl] Asset mclaren/rmodp1gtr.ytd uses 47.0 MiB of physical memory.
+[ citizen-server-impl] Started resource mclaren
+[ citizen-server-impl] Asset porsche/comet2.yft uses 25.5 MiB of virtual memory.
+[ citizen-server-impl] Asset porsche/comet2.ytd uses 24.5 MiB of physical memory.
+[ citizen-server-impl] Asset porsche/comet2_hi.yft uses 25.5 MiB of virtual memory.
+[ citizen-server-impl] Started resource porsche
+[ citizen-server-impl] Asset porsche_cayenne/cayenne.yft uses 29.5 MiB of virtual memory.
+[ citizen-server-impl] Asset porsche_cayenne/cayenne.ytd uses 72.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').
+[ citizen-server-impl] Asset porsche_cayenne/cayenne_hi.yft uses 29.5 MiB of virtual memory.
+[ citizen-server-impl] Started resource porsche_cayenne
+[ citizen-server-impl] Asset porsche_panamera/exemplar.yft uses 21.0 MiB of virtual memory.
+[ citizen-server-impl] Asset porsche_panamera/exemplar.ytd uses 57.5 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').
+[ citizen-server-impl] Asset porsche_panamera/exemplar_hi.yft uses 21.0 MiB of virtual memory.
+[ citizen-server-impl] Started resource porsche_panamera
+[ citizen-server-impl] Asset s1000rr/s1000rr.ytd uses 160.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').
+[ citizen-server-impl] Started resource s1000rr
+[ citizen-server-impl] Asset samu/ambulance.ytd uses 72.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').
+[ citizen-server-impl] Started resource samu
+[ citizen-server-impl] Asset urus/urus.yft uses 17.7 MiB of virtual memory.
+[ citizen-server-impl] Asset urus/urus.ytd uses 86.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').
+[ citizen-server-impl] Asset urus/urus_hi.yft uses 17.7 MiB of virtual memory.
+[ citizen-server-impl] Asset urus/wheel_urus4.ydr uses 48.0 MiB of physical memory.
+[ citizen-server-impl] Started resource urus
+[ citizen-server-impl] Asset xj6/bati.yft uses 32.5 MiB of virtual memory.
+[ citizen-server-impl] Asset xj6/bati.ytd uses 20.0 MiB of physical memory.
+[ citizen-server-impl] Asset xj6/bati_hi.yft uses 32.5 MiB of virtual memory.
+[ citizen-server-impl] Started resource xj6
+[ citizen-server-impl] Asset z1000/z1000.ytd uses 25.0 MiB of physical memory.
+[ citizen-server-impl] Started resource z1000
+[ citizen-server-impl] Asset mustang/dominator.ytd uses 80.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').
+[ citizen-server-impl] Started resource mustang
+[   script:mapmanager] Started map fivem-map-hipster
+[ citizen-server-impl] Started resource fivem-map-hipster
+[      script:monitor] [txAdminClient] Threads and commands set up. All Ready.
+[ citizen-server-impl] server thread hitch warning: timer interval of 169 milliseconds
+[ citizen-server-impl]         fff                          
+[ citizen-server-impl]   cccc ff   xx  xx     rr rr    eee  
+[ citizen-server-impl] cc     ffff   xx       rrr  r ee   e 
+[ citizen-server-impl] cc     ff     xx   ... rr     eeeee  
+[ citizen-server-impl]  ccccc ff   xx  xx ... rr      eeeee 
+[ citizen-server-impl]                                      
+[ citizen-server-impl] Authenticated with cfx.re Nucleus: https://fixpolbr-4amxjo.users.cfx.re/
+[ citizen-server-impl] -- [server notice: hostname_rework]
+[ citizen-server-impl] You don't have sv_projectName/sv_projectDesc set.
+[ citizen-server-impl] These variables augment sv_hostname and fix your server name being cut off in the server list.
+[ citizen-server-impl] Use `sets sv_projectName ..` and `sets sv_projectDesc ..` to set them.
+[ citizen-server-impl] 
+[ citizen-server-impl] -- [server notice: tebex_not_set]
+[ citizen-server-impl] ================
+[ citizen-server-impl] Monetize your server using Tebex! Visit https://tebex.io/fivem for more info.
+[ citizen-server-impl] ================
+[ citizen-server-impl] 
+[      script:hardcap] Connecting: Daniel
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: The operation was canceled. <- System.TimeoutException: The operation was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[      script:hardcap] Connecting: Daniel
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: The operation was canceled. <- System.TimeoutException: The operation was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[      script:hardcap] Connecting: Daniel
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: The operation was canceled. <- System.TimeoutException: The operation was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: The operation was canceled. <- System.TimeoutException: The operation was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+[ citizen-server-impl] Server list query returned an error: System.Threading.Tasks.TaskCanceledException: The operation was canceled. <- System.TimeoutException: The operation was canceled. <- System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.
+
+================================================================
+======== FXServer Starting - 11/18/2021, 11:58:19 PM            
+================================================================
+[    c-scripting-core] Creating script environments for _cfx_internal
+[ citizen-server-impl] Scanning resources.
+[ citizen-server-impl] Found 54 resources.
+[ citizen-server-impl] Some resources have an outdated resource manifest:
+[ citizen-server-impl]     - baseevents
+[ citizen-server-impl]     - new-banking
+[ citizen-server-impl]     - object-loader
+[ citizen-server-impl]     - sessionmanager
+[ citizen-server-impl] 
+[ citizen-server-impl] Please update these resources.
+[          svadhesive] Authenticating server license key...
+[          svadhesive] Server license key authentication succeeded. Welcome!
+[    c-scripting-core] Creating script environments for sessionmanager
+[ citizen-server-impl] Started resource sessionmanager
+[    c-scripting-core] Creating script environments for monitor
+[      script:monitor] [txAdminClient] Version 4.8.0 starting...
+[ citizen-server-impl] Started resource monitor
+[    c-scripting-core] Creating script environments for mapmanager
+[ citizen-server-impl] Started resource mapmanager
+[    c-scripting-core] Creating script environments for chat
+[ citizen-server-impl] Started resource chat
+[ citizen-server-impl] Started resource spawnmanager
+[   script:mapmanager] Started gametype Freeroam
+[ citizen-server-impl] Started resource basic-gamemode
+[ citizen-server-impl] Started resource fivem
+[    c-scripting-core] Creating script environments for hardcap
+[ citizen-server-impl] Started resource hardcap
+[    c-scripting-core] Creating script environments for rconlog
+[ citizen-server-impl] Started resource rconlog
+[ citizen-server-impl] Started resource scoreboard
+[ citizen-server-impl] Started resource example-loadscreen
+[ citizen-server-impl] Started resource spawnpoint
+[ citizen-server-impl] Started resource CarCommand
+[ citizen-server-impl] Started resource test
+[ citizen-server-impl] Asset audi_a6/a6.ytd uses 29.0 MiB of physical memory.
+[ citizen-server-impl] Asset audi_a6/a6_hi.yft uses 16.8 MiB of virtual memory.
+[ citizen-server-impl] Started resource audi_a6
+[ citizen-server-impl] Started resource bikelete
+[ citizen-server-impl] Asset bmw_m5/m5e60.yft uses 20.2 MiB of virtual memory.
+[ citizen-server-impl] Asset bmw_m5/m5e60.ytd uses 16.5 MiB of physical memory.
+[ citizen-server-impl] Asset bmw_m5/m5e60_hi.yft uses 18.2 MiB of virtual memory.
+[ citizen-server-impl] Asset bmw_m5/sultan.yft uses 20.2 MiB of virtual memory.
+[ citizen-server-impl] Asset bmw_m5/sultan.ytd uses 16.5 MiB of physical memory.
+[ citizen-server-impl] Asset bmw_m5/sultan_hi.yft uses 18.2 MiB of virtual memory.
+[ citizen-server-impl] Started resource bmw_m5
+[ citizen-server-impl] Asset bmw_x6/x6m.yft uses 30.5 MiB of virtual memory.
+[ citizen-server-impl] Asset bmw_x6/x6m.ytd uses 48.5 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').
+[ citizen-server-impl] Asset bmw_x6/x6m_hi.yft uses 22.1 MiB of virtual memory.
+[ citizen-server-impl] Asset bmw_x6/xls.yft uses 30.5 MiB of virtual memory.
+[ citizen-server-impl] Asset bmw_x6/xls.ytd uses 48.5 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').
+[ citizen-server-impl] Asset bmw_x6/xls_hi.yft uses 22.1 MiB of virtual memory.
+[ citizen-server-impl] Started resource bmw_x6
+[ citizen-server-impl] Started resource buggati
+[ citizen-server-impl] Asset civic/stanier.yft uses 31.0 MiB of virtual memory.
+[ citizen-server-impl] Asset civic/stanier.ytd uses 49.2 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').
+[ citizen-server-impl] Asset civic/stanier_hi.yft uses 31.0 MiB of virtual memory.
+[ citizen-server-impl] Started resource civic
+[ citizen-server-impl] Asset gol/blista.yft uses 29.2 MiB of virtual memory.
+[ citizen-server-impl] Asset gol/blista.ytd uses 29.8 MiB of physical memory.
+[ citizen-server-impl] Started resource gol
+[ citizen-server-impl] Asset gol_g5/blista2.ytd uses 44.0 MiB of physical memory.
+[ citizen-server-impl] Started resource gol_g5
+[ citizen-server-impl] Asset golf/sultan.yft uses 29.8 MiB of virtual memory.
+[ citizen-server-impl] Asset golf/sultan.ytd uses 116.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').
+[ citizen-server-impl] Asset golf/sultan_hi.yft uses 29.8 MiB of virtual memory.
+[ citizen-server-impl] Started resource golf
+[ citizen-server-impl] Asset h2r/ninjah2.yft uses 31.8 MiB of virtual memory.
+[ citizen-server-impl] Asset h2r/ninjah2_hi.yft uses 31.8 MiB of virtual memory.
+[ citizen-server-impl] Started resource h2r
+[ citizen-server-impl] Asset hillux_rota/sheriff2+hi.ytd uses 48.0 MiB of physical memory.
+[ citizen-server-impl] Asset hillux_rota/sheriff2.yft uses 17.0 MiB of virtual memory.
+[ citizen-server-impl] Asset hillux_rota/sheriff2.ytd uses 48.0 MiB of physical memory.
+[ citizen-server-impl] Asset hillux_rota/sheriff2_hi.yft uses 17.0 MiB of virtual memory.
+[ citizen-server-impl] Started resource hillux_rota
+[ citizen-server-impl] Asset hornet/vader.yft uses 32.2 MiB of virtual memory.
+[ citizen-server-impl] Asset hornet/vader_hi.yft uses 32.2 MiB of virtual memory.
+[ citizen-server-impl] Started resource hornet
+[ citizen-server-impl] Asset huracan/lp610.ytd uses 122.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').
+[ citizen-server-impl] Asset huracan/lp610_hi.yft uses 29.5 MiB of virtual memory.
+[ citizen-server-impl] Started resource huracan
+[ citizen-server-impl] Asset jetta/asterope.yft uses 31.5 MiB of virtual memory.
+[ citizen-server-impl] Asset jetta/asterope_hi.yft uses 31.5 MiB of virtual memory.
+[ citizen-server-impl] Started resource jetta
+[ citizen-server-impl] Asset l200/tritonhpe.yft uses 20.5 MiB of virtual memory.
+[ citizen-server-impl] Asset l200/tritonhpe.ytd uses 104.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').
+[ citizen-server-impl] Asset l200/tritonhpe_hi.yft uses 20.5 MiB of virtual memory.
+[ citizen-server-impl] Started resource l200
+[ citizen-server-impl] Started resource lancer
+[ citizen-server-impl] Asset mclaren/rmodp1gtr.ytd uses 47.0 MiB of physical memory.
+[ citizen-server-impl] Started resource mclaren
+[ citizen-server-impl] Asset porsche/comet2.yft uses 25.5 MiB of virtual memory.
+[ citizen-server-impl] Asset porsche/comet2.ytd uses 24.5 MiB of physical memory.
+[ citizen-server-impl] Asset porsche/comet2_hi.yft uses 25.5 MiB of virtual memory.
+[ citizen-server-impl] Started resource porsche
+[ citizen-server-impl] Asset porsche_cayenne/cayenne.yft uses 29.5 MiB of virtual memory.
+[ citizen-server-impl] Asset porsche_cayenne/cayenne.ytd uses 72.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').
+[ citizen-server-impl] Asset porsche_cayenne/cayenne_hi.yft uses 29.5 MiB of virtual memory.
+[ citizen-server-impl] Started resource porsche_cayenne
+[ citizen-server-impl] Asset porsche_panamera/exemplar.yft uses 21.0 MiB of virtual memory.
+[ citizen-server-impl] Asset porsche_panamera/exemplar.ytd uses 57.5 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').
+[ citizen-server-impl] Asset porsche_panamera/exemplar_hi.yft uses 21.0 MiB of virtual memory.
+[ citizen-server-impl] Started resource porsche_panamera
+[ citizen-server-impl] Asset s1000rr/s1000rr.ytd uses 160.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').
+[ citizen-server-impl] Started resource s1000rr
+[ citizen-server-impl] Asset samu/ambulance.ytd uses 72.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').
+[ citizen-server-impl] Started resource samu
+[ citizen-server-impl] Asset urus/urus.yft uses 17.7 MiB of virtual memory.
+[ citizen-server-impl] Asset urus/urus.ytd uses 86.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').
+[ citizen-server-impl] Asset urus/urus_hi.yft uses 17.7 MiB of virtual memory.
+[ citizen-server-impl] Asset urus/wheel_urus4.ydr uses 48.0 MiB of physical memory.
+[ citizen-server-impl] Started resource urus
+[ citizen-server-impl] Asset xj6/bati.yft uses 32.5 MiB of virtual memory.
+[ citizen-server-impl] Asset xj6/bati.ytd uses 20.0 MiB of physical memory.
+[ citizen-server-impl] Asset xj6/bati_hi.yft uses 32.5 MiB of virtual memory.
+[ citizen-server-impl] Started resource xj6
+[ citizen-server-impl] Asset z1000/z1000.ytd uses 25.0 MiB of physical memory.
+[ citizen-server-impl] Started resource z1000
+[ citizen-server-impl] Asset mustang/dominator.ytd uses 80.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').
+[ citizen-server-impl] Started resource mustang
+[   script:mapmanager] Started map fivem-map-skater
+[ citizen-server-impl] Started resource fivem-map-skater
+[      script:monitor] [txAdminClient] Threads and commands set up. All Ready.
+[ citizen-server-impl]         fff                          
+[ citizen-server-impl]   cccc ff   xx  xx     rr rr    eee  
+[ citizen-server-impl] cc     ffff   xx       rrr  r ee   e 
+[ citizen-server-impl] cc     ff     xx   ... rr     eeeee  
+[ citizen-server-impl]  ccccc ff   xx  xx ... rr      eeeee 
+[ citizen-server-impl]                                      
+[ citizen-server-impl] Authenticated with cfx.re Nucleus: https://fixpolbr-4amxjo.users.cfx.re/
+[ citizen-server-impl] -- [server notice: hostname_rework]
+[ citizen-server-impl] You don't have sv_projectName/sv_projectDesc set.
+[ citizen-server-impl] These variables augment sv_hostname and fix your server name being cut off in the server list.
+[ citizen-server-impl] Use `sets sv_projectName ..` and `sets sv_projectDesc ..` to set them.
+[ citizen-server-impl] 
+[ citizen-server-impl] -- [server notice: tebex_not_set]
+[ citizen-server-impl] ================
+[ citizen-server-impl] Monetize your server using Tebex! Visit https://tebex.io/fivem for more info.
+[ citizen-server-impl] ================
+[ citizen-server-impl] 

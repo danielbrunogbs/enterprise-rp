@@ -1,0 +1,371 @@
+
+================================================================
+======== Log Rotated - 12/2/2021, 12:00:00 AM                   
+================================================================
+[  script:es_extended] [es_extended] [INFO] Saved 0 player(s)
+> quit "Server restarting (FixpolBR)."
+
+================================================================
+======== FXServer Starting - 12/2/2021, 12:02:42 AM             
+================================================================
+[    c-scripting-core] Creating script environments for _cfx_internal
+[ citizen-server-impl] Scanning resources.
+[ citizen-server-impl] Found 31 resources.
+[ citizen-server-impl] Some resources have an outdated resource manifest:
+[ citizen-server-impl]     - baseevents
+[ citizen-server-impl]     - new-banking
+[ citizen-server-impl]     - object-loader
+[ citizen-server-impl]     - sessionmanager
+[ citizen-server-impl] 
+[ citizen-server-impl] Please update these resources.
+[          svadhesive] Authenticating server license key...
+[          svadhesive] Server license key authentication succeeded. Welcome!
+[    c-scripting-core] Creating script environments for sessionmanager
+[ citizen-server-impl] Started resource sessionmanager
+[    c-scripting-core] Creating script environments for monitor
+[      script:monitor] [txAdminClient] Version 4.8.0 starting...
+[ citizen-server-impl] Started resource monitor
+[    c-scripting-core] Creating script environments for mapmanager
+[ citizen-server-impl] Started resource mapmanager
+[    c-scripting-core] Creating script environments for chat
+[ citizen-server-impl] Started resource chat
+[ citizen-server-impl] Started resource spawnmanager
+[    c-scripting-core] Creating script environments for hardcap
+[ citizen-server-impl] Started resource hardcap
+[    c-scripting-core] Creating script environments for rconlog
+[ citizen-server-impl] Started resource rconlog
+[ citizen-server-impl] Started resource scoreboard
+[ citizen-server-impl] Started resource example-loadscreen
+[ citizen-server-impl] Started resource spawnpoint
+[    c-scripting-core] Creating script environments for mysql-async
+[ citizen-server-impl] Started resource mysql-async
+[    c-scripting-core] Creating script environments for async
+[ citizen-server-impl] Started resource async
+[    c-scripting-core] Creating script environments for es_extended
+[ citizen-server-impl] Started resource es_extended
+[    c-scripting-core] Creating script environments for new-banking
+[ citizen-server-impl] Started resource new-banking
+[    c-scripting-core] Creating script environments for test
+[         script:test] Tudo carregou conforme o esperado!
+[ citizen-server-impl] Started resource test
+[ citizen-server-impl] Started resource CarCommand
+[ citizen-server-impl] Started resource object-loader
+[ citizen-server-impl] Asset campinho/stt_prop_ramp_adj_hloop.ydr uses 32.0 MiB of physical memory.
+[ citizen-server-impl] Asset campinho/stt_prop_ramp_adj_hloop.ydr uses 22.0 MiB of virtual memory.
+[ citizen-server-impl] Asset campinho/stt_prop_track_bend2_bar_l.ydr uses 32.0 MiB of physical memory.
+[ citizen-server-impl] Started resource campinho
+[ citizen-server-impl] Asset ferrari/aventador.yft uses 20.4 MiB of virtual memory.
+[ citizen-server-impl] Asset ferrari/aventador.yft uses 20.4 MiB of virtual memory.
+[ citizen-server-impl] Asset ferrari/aventador.ytd uses 128.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').
+[ citizen-server-impl] Asset ferrari/aventador.ytd uses 128.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').
+[ citizen-server-impl] Asset ferrari/aventador_hi.yft uses 20.4 MiB of virtual memory.
+[ citizen-server-impl] Asset ferrari/aventador_hi.yft uses 20.4 MiB of virtual memory.
+[ citizen-server-impl] Asset ferrari/avnt_livery1.yft uses 32.0 MiB of physical memory.
+[ citizen-server-impl] Asset ferrari/avnt_livery1.yft uses 32.0 MiB of physical memory.
+[ citizen-server-impl] Asset ferrari/laferrari.yft uses 24.2 MiB of virtual memory.
+[ citizen-server-impl] Asset ferrari/laferrari.yft uses 24.2 MiB of virtual memory.
+[ citizen-server-impl] Asset ferrari/laferrari.ytd uses 124.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').
+[ citizen-server-impl] Asset ferrari/laferrari.ytd uses 124.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').
+[ citizen-server-impl] Asset ferrari/laferrari_hi.yft uses 24.2 MiB of virtual memory.
+[ citizen-server-impl] Asset ferrari/laferrari_hi.yft uses 24.2 MiB of virtual memory.
+[ citizen-server-impl] Asset ferrari/raptor2017+hi.ytd uses 32.0 MiB of physical memory.
+[ citizen-server-impl] Asset ferrari/raptor2017+hi.ytd uses 32.0 MiB of physical memory.
+[ citizen-server-impl] Asset ferrari/raptor2017.yft uses 28.0 MiB of virtual memory.
+[ citizen-server-impl] Asset ferrari/raptor2017.yft uses 28.0 MiB of virtual memory.
+[ citizen-server-impl] Asset ferrari/raptor2017.ytd uses 226.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').
+[ citizen-server-impl] Asset ferrari/raptor2017.ytd uses 226.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').
+[ citizen-server-impl] Asset ferrari/raptor2017_hi.yft uses 28.0 MiB of virtual memory.
+[ citizen-server-impl] Asset ferrari/raptor2017_hi.yft uses 28.0 MiB of virtual memory.
+[ citizen-server-impl] Asset ferrari/raptor_bajacage_2.yft uses 20.8 MiB of physical memory.
+[ citizen-server-impl] Asset ferrari/raptor_bajacage_2.yft uses 20.8 MiB of physical memory.
+[ citizen-server-impl] Asset ferrari/raptor_bajacage_4.yft uses 32.0 MiB of physical memory.
+[ citizen-server-impl] Asset ferrari/raptor_bajacage_4.yft uses 32.0 MiB of physical memory.
+[ citizen-server-impl] Asset ferrari/raptor_raidint.yft uses 32.0 MiB of physical memory.
+[ citizen-server-impl] Asset ferrari/raptor_raidint.yft uses 32.0 MiB of physical memory.
+[ citizen-server-impl] Asset ferrari/raptor_tools.yft uses 24.0 MiB of physical memory.
+[ citizen-server-impl] Asset ferrari/raptor_tools.yft uses 24.0 MiB of physical memory.
+[ citizen-server-impl] Asset ferrari/raptor_tools2.yft uses 24.0 MiB of physical memory.
+[ citizen-server-impl] Asset ferrari/raptor_tools2.yft uses 24.0 MiB of physical memory.
+[ citizen-server-impl] Started resource ferrari
+[  script:mysql-async] [mysql-async] [SUCCESS] Database server connection established.
+[      script:monitor] [txAdminClient] Threads and commands set up. All Ready.
+[  script:es_extended] [es_extended] [INFO] ESX developed by ESX-Org has been initialized
+[ citizen-server-impl]         fff                          
+[ citizen-server-impl]   cccc ff   xx  xx     rr rr    eee  
+[ citizen-server-impl] cc     ffff   xx       rrr  r ee   e 
+[ citizen-server-impl] cc     ff     xx   ... rr     eeeee  
+[ citizen-server-impl]  ccccc ff   xx  xx ... rr      eeeee 
+[ citizen-server-impl]                                      
+[ citizen-server-impl] Authenticated with cfx.re Nucleus: https://fixpolbr-4amxjo.users.cfx.re/
+[ citizen-server-impl] -- [server notice: hostname_rework]
+[ citizen-server-impl] You don't have sv_projectName/sv_projectDesc set.
+[ citizen-server-impl] These variables augment sv_hostname and fix your server name being cut off in the server list.
+[ citizen-server-impl] Use `sets sv_projectName ..` and `sets sv_projectDesc ..` to set them.
+[ citizen-server-impl] 
+[ citizen-server-impl] -- [server notice: tebex_not_set]
+[ citizen-server-impl] ================
+[ citizen-server-impl] Monetize your server using Tebex! Visit https://tebex.io/fivem for more info.
+[ citizen-server-impl] ================
+[ citizen-server-impl] 
+[      script:hardcap] Connecting: Daniel
+[                 cmd] Access denied for command add_principal.
+[  script:es_extended] [es_extended] [INFO] A player with name "Daniel" has connected to the server with assigned player id 1
+> txaReportResources
+[      script:monitor] [txAdminClient] Sending resources list to txAdmin.
+[  script:es_extended] [es_extended] [INFO] Saved player "Daniel"
+[  script:es_extended] [es_extended] [INFO] Saved 1 player(s)
+> ensure "ferrari"
+[ citizen-server-impl] Stopping resource ferrari
+[ citizen-server-impl] Asset ferrari/aventador.yft uses 20.4 MiB of virtual memory.
+[ citizen-server-impl] Asset ferrari/aventador.yft uses 20.4 MiB of virtual memory.
+[ citizen-server-impl] Asset ferrari/aventador.ytd uses 128.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').
+[ citizen-server-impl] Asset ferrari/aventador.ytd uses 128.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').
+[ citizen-server-impl] Asset ferrari/aventador_hi.yft uses 20.4 MiB of virtual memory.
+[ citizen-server-impl] Asset ferrari/aventador_hi.yft uses 20.4 MiB of virtual memory.
+[ citizen-server-impl] Asset ferrari/laferrari.yft uses 24.2 MiB of virtual memory.
+[ citizen-server-impl] Asset ferrari/laferrari.yft uses 24.2 MiB of virtual memory.
+[ citizen-server-impl] Asset ferrari/laferrari.ytd uses 124.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').
+[ citizen-server-impl] Asset ferrari/laferrari.ytd uses 124.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').
+[ citizen-server-impl] Asset ferrari/laferrari_hi.yft uses 24.2 MiB of virtual memory.
+[ citizen-server-impl] Asset ferrari/laferrari_hi.yft uses 24.2 MiB of virtual memory.
+[ citizen-server-impl] Asset ferrari/raptor2017+hi.ytd uses 32.0 MiB of physical memory.
+[ citizen-server-impl] Asset ferrari/raptor2017+hi.ytd uses 32.0 MiB of physical memory.
+[ citizen-server-impl] Asset ferrari/raptor2017.yft uses 28.0 MiB of virtual memory.
+[ citizen-server-impl] Asset ferrari/raptor2017.yft uses 28.0 MiB of virtual memory.
+[ citizen-server-impl] Asset ferrari/raptor2017.ytd uses 226.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').
+[ citizen-server-impl] Asset ferrari/raptor2017.ytd uses 226.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').
+[ citizen-server-impl] Asset ferrari/raptor2017_hi.yft uses 28.0 MiB of virtual memory.
+[ citizen-server-impl] Asset ferrari/raptor2017_hi.yft uses 28.0 MiB of virtual memory.
+[ citizen-server-impl] Started resource ferrari
+[ citizen-server-impl] server thread hitch warning: timer interval of 546 milliseconds
+> txaReportResources
+[      script:monitor] [txAdminClient] Sending resources list to txAdmin.
+[  script:es_extended] [es_extended] [INFO] Saved player "Daniel"
+> quit "Server restarting (FixpolBR)."
+
+================================================================
+======== FXServer Starting - 12/2/2021, 12:13:04 AM             
+================================================================
+[    c-scripting-core] Creating script environments for _cfx_internal
+[ citizen-server-impl] Scanning resources.
+[ citizen-server-impl] Found 31 resources.
+[ citizen-server-impl] Some resources have an outdated resource manifest:
+[ citizen-server-impl]     - baseevents
+[ citizen-server-impl]     - new-banking
+[ citizen-server-impl]     - object-loader
+[ citizen-server-impl]     - sessionmanager
+[ citizen-server-impl] 
+[ citizen-server-impl] Please update these resources.
+[          svadhesive] Authenticating server license key...
+[          svadhesive] Server license key authentication succeeded. Welcome!
+[    c-scripting-core] Creating script environments for sessionmanager
+[ citizen-server-impl] Started resource sessionmanager
+[    c-scripting-core] Creating script environments for monitor
+[      script:monitor] [txAdminClient] Version 4.8.0 starting...
+[ citizen-server-impl] Started resource monitor
+[    c-scripting-core] Creating script environments for mapmanager
+[ citizen-server-impl] Started resource mapmanager
+[    c-scripting-core] Creating script environments for chat
+[ citizen-server-impl] Started resource chat
+[ citizen-server-impl] Started resource spawnmanager
+[    c-scripting-core] Creating script environments for hardcap
+[ citizen-server-impl] Started resource hardcap
+[    c-scripting-core] Creating script environments for rconlog
+[ citizen-server-impl] Started resource rconlog
+[ citizen-server-impl] Started resource scoreboard
+[ citizen-server-impl] Started resource example-loadscreen
+[ citizen-server-impl] Started resource spawnpoint
+[    c-scripting-core] Creating script environments for mysql-async
+[ citizen-server-impl] Started resource mysql-async
+[    c-scripting-core] Creating script environments for async
+[ citizen-server-impl] Started resource async
+[    c-scripting-core] Creating script environments for es_extended
+[ citizen-server-impl] Started resource es_extended
+[    c-scripting-core] Creating script environments for new-banking
+[ citizen-server-impl] Started resource new-banking
+[    c-scripting-core] Creating script environments for test
+[         script:test] Tudo carregou conforme o esperado!
+[ citizen-server-impl] Started resource test
+[ citizen-server-impl] Started resource CarCommand
+[ citizen-server-impl] Started resource object-loader
+[ citizen-server-impl] Asset campinho/stt_prop_ramp_adj_hloop.ydr uses 32.0 MiB of physical memory.
+[ citizen-server-impl] Asset campinho/stt_prop_ramp_adj_hloop.ydr uses 22.0 MiB of virtual memory.
+[ citizen-server-impl] Asset campinho/stt_prop_track_bend2_bar_l.ydr uses 32.0 MiB of physical memory.
+[ citizen-server-impl] Started resource campinho
+[ citizen-server-impl] Asset ferrari/aventador.yft uses 20.4 MiB of virtual memory.
+[ citizen-server-impl] Asset ferrari/aventador.ytd uses 128.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').
+[ citizen-server-impl] Asset ferrari/aventador_hi.yft uses 20.4 MiB of virtual memory.
+[ citizen-server-impl] Asset ferrari/laferrari.yft uses 24.2 MiB of virtual memory.
+[ citizen-server-impl] Asset ferrari/laferrari.ytd uses 124.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').
+[ citizen-server-impl] Asset ferrari/laferrari_hi.yft uses 24.2 MiB of virtual memory.
+[ citizen-server-impl] Asset ferrari/raptor2017+hi.ytd uses 32.0 MiB of physical memory.
+[ citizen-server-impl] Asset ferrari/raptor2017.yft uses 28.0 MiB of virtual memory.
+[ citizen-server-impl] Asset ferrari/raptor2017.ytd uses 226.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').
+[ citizen-server-impl] Asset ferrari/raptor2017_hi.yft uses 28.0 MiB of virtual memory.
+[ citizen-server-impl] Started resource ferrari
+[  script:mysql-async] [mysql-async] [SUCCESS] Database server connection established.
+[      script:monitor] [txAdminClient] Threads and commands set up. All Ready.
+[  script:es_extended] [es_extended] [INFO] ESX developed by ESX-Org has been initialized
+[ citizen-server-impl]         fff                          
+[ citizen-server-impl]   cccc ff   xx  xx     rr rr    eee  
+[ citizen-server-impl] cc     ffff   xx       rrr  r ee   e 
+[ citizen-server-impl] cc     ff     xx   ... rr     eeeee  
+[ citizen-server-impl]  ccccc ff   xx  xx ... rr      eeeee 
+[ citizen-server-impl]                                      
+[ citizen-server-impl] Authenticated with cfx.re Nucleus: https://fixpolbr-4amxjo.users.cfx.re/
+[ citizen-server-impl] -- [server notice: hostname_rework]
+[ citizen-server-impl] You don't have sv_projectName/sv_projectDesc set.
+[ citizen-server-impl] These variables augment sv_hostname and fix your server name being cut off in the server list.
+[ citizen-server-impl] Use `sets sv_projectName ..` and `sets sv_projectDesc ..` to set them.
+[ citizen-server-impl] 
+[ citizen-server-impl] -- [server notice: tebex_not_set]
+[ citizen-server-impl] ================
+[ citizen-server-impl] Monetize your server using Tebex! Visit https://tebex.io/fivem for more info.
+[ citizen-server-impl] ================
+[ citizen-server-impl] 
+[      script:hardcap] Connecting: Daniel
+[      script:hardcap] Connecting: zFryze
+[                 cmd] Access denied for command add_principal.
+[  script:es_extended] [es_extended] [INFO] A player with name "Daniel" has connected to the server with assigned player id 1
+[                 cmd] Access denied for command add_principal.
+[  script:es_extended] [es_extended] [INFO] A player with name "zFryze" has connected to the server with assigned player id 2
+[ citizen-server-impl] network thread hitch warning: timer interval of 162 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 149 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 117 milliseconds
+[  script:es_extended] [es_extended] [INFO] Saved player "zFryze"
+[  script:es_extended] [es_extended] [INFO] Saved player "Daniel"
+[  script:es_extended] [es_extended] [INFO] Saved 2 player(s)
+> txaReportResources
+[      script:monitor] [txAdminClient] Sending resources list to txAdmin.
+> refresh
+[ citizen-server-impl] Scanning resources.
+[    c-resources-core] Resource loading for porsche_cayman failed:
+[    c-resources-core] Could not open resource metadata file - no such file.
+[    c-resources-core] Resource loading for porsche_panamera failed:
+[    c-resources-core] Could not open resource metadata file - no such file.
+[ citizen-server-impl] Found 2 new resources, and refreshed 0/31 resources.
+> txaReportResources
+[      script:monitor] [txAdminClient] Sending resources list to txAdmin.
+> refresh
+[ citizen-server-impl] Scanning resources.
+[ citizen-server-impl] Found 2 new resources, and refreshed 0/31 resources.
+> txaReportResources
+[      script:monitor] [txAdminClient] Sending resources list to txAdmin.
+> ensure "porsche_cayman"
+[ citizen-server-impl] Asset porsche_cayman/comet2.ytd uses 17.2 MiB of physical memory.
+[ citizen-server-impl] Asset porsche_cayman/comet2.ytd uses 17.2 MiB of physical memory.
+[ citizen-server-impl] Started resource porsche_cayman
+> txaReportResources
+[      script:monitor] [txAdminClient] Sending resources list to txAdmin.
+> ensure "porsche_panamera"
+[ citizen-server-impl] Asset porsche_panamera/panamera17turbo.yft uses 21.0 MiB of virtual memory.
+[ citizen-server-impl] Asset porsche_panamera/panamera17turbo.yft uses 21.0 MiB of virtual memory.
+[ citizen-server-impl] Asset porsche_panamera/panamera17turbo.ytd uses 57.5 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').
+[ citizen-server-impl] Asset porsche_panamera/panamera17turbo.ytd uses 57.5 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').
+[ citizen-server-impl] Asset porsche_panamera/panamera17turbo_hi.yft uses 21.0 MiB of virtual memory.
+[ citizen-server-impl] Asset porsche_panamera/panamera17turbo_hi.yft uses 21.0 MiB of virtual memory.
+[ citizen-server-impl] Started resource porsche_panamera
+[ citizen-server-impl] server thread hitch warning: timer interval of 258 milliseconds
+> txaReportResources
+[      script:monitor] [txAdminClient] Sending resources list to txAdmin.
+[                 cmd] Access denied for command dv.
+> ensure "porsche_panamera"
+[ citizen-server-impl] Stopping resource porsche_panamera
+[ citizen-server-impl] Asset porsche_panamera/exemplar.yft uses 21.0 MiB of virtual memory.
+[ citizen-server-impl] Asset porsche_panamera/exemplar.yft uses 21.0 MiB of virtual memory.
+[ citizen-server-impl] Asset porsche_panamera/exemplar.ytd uses 57.5 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').
+[ citizen-server-impl] Asset porsche_panamera/exemplar.ytd uses 57.5 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').
+[ citizen-server-impl] Asset porsche_panamera/exemplar_hi.yft uses 21.0 MiB of virtual memory.
+[ citizen-server-impl] Asset porsche_panamera/exemplar_hi.yft uses 21.0 MiB of virtual memory.
+[ citizen-server-impl] Started resource porsche_panamera
+[ citizen-server-impl] server thread hitch warning: timer interval of 343 milliseconds
+> txaReportResources
+[      script:monitor] [txAdminClient] Sending resources list to txAdmin.
+[  script:es_extended] [es_extended] [INFO] Saved player "Daniel"
+[  script:es_extended] [es_extended] [INFO] Saved player "zFryze"
+[  script:es_extended] [es_extended] [INFO] Saved 2 player(s)
+[  script:es_extended] [es_extended] [INFO] Saved player "Daniel"
+[  script:es_extended] [es_extended] [INFO] Saved player "zFryze"
+[  script:es_extended] [es_extended] [INFO] Saved 2 player(s)
+[  script:es_extended] [es_extended] [INFO] Saved player "Daniel"
+[      script:hardcap] Connecting: Daniel
+[                 cmd] Access denied for command add_principal.
+[  script:es_extended] [es_extended] [INFO] A player with name "Daniel" has connected to the server with assigned player id 3
+[                 cmd] Access denied for command dv.
+[  script:es_extended] [es_extended] [INFO] Saved player "Daniel"
+[  script:es_extended] [es_extended] [INFO] Saved player "zFryze"
+[  script:es_extended] [es_extended] [INFO] Saved player "Daniel"
+[  script:es_extended] [es_extended] [INFO] Saved 2 player(s)
+[  script:es_extended] [es_extended] [INFO] Saved player "zFryze"
+[  script:es_extended] [es_extended] [INFO] Saved player "Daniel"
+[  script:es_extended] [es_extended] [INFO] Saved 1 player(s)
+[      script:hardcap] Connecting: zFryze
+[                 cmd] Access denied for command add_principal.
+[  script:es_extended] [es_extended] [INFO] A player with name "zFryze" has connected to the server with assigned player id 4
+[  script:es_extended] [es_extended] [INFO] Saved player "zFryze"
+[      script:hardcap] Connecting: zFryze
+[                 cmd] Access denied for command add_principal.
+[  script:es_extended] [es_extended] [INFO] A player with name "zFryze" has connected to the server with assigned player id 5
+[  script:es_extended] [es_extended] [INFO] Saved player "Daniel"
+[      script:hardcap] Connecting: Daniel
+[                 cmd] Access denied for command add_principal.
+[  script:es_extended] [es_extended] [INFO] A player with name "Daniel" has connected to the server with assigned player id 6
+[  script:es_extended] [es_extended] [INFO] Saved player "Daniel"
+[  script:es_extended] [es_extended] [INFO] Saved player "zFryze"
+[  script:es_extended] [es_extended] [INFO] Saved 1 player(s)
+[      script:hardcap] Connecting: Daniel
+[                 cmd] Access denied for command add_principal.
+[  script:es_extended] [es_extended] [INFO] A player with name "Daniel" has connected to the server with assigned player id 7
+[ citizen-server-impl] network thread hitch warning: timer interval of 183 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 169 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 168 milliseconds
+[  script:es_extended] [es_extended] [INFO] Saved player "zFryze"
+[  script:es_extended] [es_extended] [INFO] Saved player "Daniel"
+[  script:es_extended] [es_extended] [INFO] Saved 2 player(s)
+[ citizen-server-impl] sync thread hitch warning: timer interval of 153 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 174 milliseconds
+> refresh
+[ citizen-server-impl] Scanning resources.
+[ citizen-server-impl] Found 3 new resources, and refreshed 0/33 resources.
+> txaReportResources
+[      script:monitor] [txAdminClient] Sending resources list to txAdmin.
+> ensure "audi_rs6"
+[ citizen-server-impl] Asset audi_rs6/rs6.yft uses 25.2 MiB of virtual memory.
+[ citizen-server-impl] Asset audi_rs6/rs6.yft uses 25.2 MiB of virtual memory.
+[ citizen-server-impl] Asset audi_rs6/rs6.ytd uses 157.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').
+[ citizen-server-impl] Asset audi_rs6/rs6.ytd uses 157.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').
+[ citizen-server-impl] Asset audi_rs6/rs6_hi.yft uses 25.2 MiB of virtual memory.
+[ citizen-server-impl] Asset audi_rs6/rs6_hi.yft uses 25.2 MiB of virtual memory.
+[ citizen-server-impl] Started resource audi_rs6
+[ citizen-server-impl] server thread hitch warning: timer interval of 272 milliseconds
+> txaReportResources
+[      script:monitor] [txAdminClient] Sending resources list to txAdmin.
+> ensure "gtr_r35"
+[ citizen-server-impl] Started resource gtr_r35
+[ citizen-server-impl] server thread hitch warning: timer interval of 255 milliseconds
+> txaReportResources
+[      script:monitor] [txAdminClient] Sending resources list to txAdmin.
+> ensure "ninjah2"
+[ citizen-server-impl] Asset ninjah2/ninjah2.yft uses 31.8 MiB of virtual memory.
+[ citizen-server-impl] Asset ninjah2/ninjah2.yft uses 31.8 MiB of virtual memory.
+[ citizen-server-impl] Asset ninjah2/ninjah2_hi.yft uses 31.8 MiB of virtual memory.
+[ citizen-server-impl] Asset ninjah2/ninjah2_hi.yft uses 31.8 MiB of virtual memory.
+[ citizen-server-impl] Started resource ninjah2
+[ citizen-server-impl] server thread hitch warning: timer interval of 267 milliseconds
+> txaReportResources
+[      script:monitor] [txAdminClient] Sending resources list to txAdmin.
+[  script:es_extended] [es_extended] [INFO] Saved player "zFryze"
+[  script:es_extended] [es_extended] [INFO] Saved player "Daniel"
+[  script:es_extended] [es_extended] [INFO] Saved 2 player(s)
+[                 cmd] Access denied for command dv.
+[                 cmd] Access denied for command dv.
+[  script:es_extended] [es_extended] [INFO] Saved player "Daniel"
+[  script:es_extended] [es_extended] [INFO] Saved player "zFryze"
+[  script:es_extended] [es_extended] [INFO] Saved 2 player(s)
+> stop "CarCommand"
+[ citizen-server-impl] Stopping resource CarCommand
+> txaReportResources
+[      script:monitor] [txAdminClient] Sending resources list to txAdmin.
+[  script:es_extended] [es_extended] [INFO] Saved player "Daniel"
+[  script:es_extended] [es_extended] [INFO] Saved player "zFryze"
+> quit "Server shutting down (FixpolBR)."
