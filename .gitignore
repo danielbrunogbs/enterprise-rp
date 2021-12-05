@@ -1,3 +1,4 @@
 server-data/cfx-server-data/cache
 ./server
 node_modules
+server/txData/default/logs

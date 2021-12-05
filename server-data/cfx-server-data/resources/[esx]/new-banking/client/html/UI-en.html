@@ -196,6 +196,9 @@
     	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
     	<script src="nui://game/ui/jquery.js" type="text/javascript"></script>
     	<script type="text/javascript">
+
+    		let resource = GetParentResourceName();
+
     		$(function() {
 				window.addEventListener('message', function(event) {
 					if (event.data.type === "openGeneral"){
@@ -220,7 +223,7 @@
     		$('.btn-sign-out').click(function(){
 	            $('#general, #waiting, #transferUI, #withdrawUI, #depositUI, #topbar').hide();
 	            $('body').removeClass("active");
-	            $.post('http://new_banking/NUIFocusOff', JSON.stringify({}));
+	            $.post(`http://${resource}/NUIFocusOff`, JSON.stringify({}));
 	        })
 	        $('.back').click(function(){
 	            $('#depositUI, #withdrawUI, #transferUI').hide();
@@ -249,7 +252,7 @@
 	        })
 	        $("#deposit1").submit(function(e) {
 		        e.preventDefault(); // Prevent form from submitting
-		        $.post('http://new_banking/deposit', JSON.stringify({
+		        $.post(`http://${resource}/deposit`, JSON.stringify({
 		            amount: $("#amount").val()
 		        }));
 				$('#depositUI').hide();
@@ -258,7 +261,7 @@
 			});
 			$("#transfer1").submit(function(e) {
 		        e.preventDefault(); // Prevent form from submitting
-		        $.post('http://new_banking/transfer', JSON.stringify({
+		        $.post(`http://${resource}/transfer`, JSON.stringify({
 					to: $("#to").val(),
 		            amountt: $("#amountt").val()
 		        }));
@@ -268,19 +271,24 @@
 			});
 			$("#withdraw1").submit(function(e) {
 				e.preventDefault(); // Prevent form from submitting
-		        $.post('http://new_banking/withdrawl', JSON.stringify({
+		        $.post(`http://${resource}/withdrawl`, JSON.stringify({
 		            amountw: $("#amountw").val()
 		        }));
 				$('#withdrawUI').hide();
 				$('#general').show();
 				$("#amountw").val('');
 			});
-			document.onkeyup = function(data){
-		        if (data.which == 27){
+			document.onkeyup = function(data)
+			{
+		        
+		        if (data.which == 27)
+		        {
 		            $('#general, #waiting, #transferUI, #withdrawUI, #depositUI, #topbar').hide();
 		            $('body').removeClass("active");
-		            $.post('http://new_banking/NUIFocusOff', JSON.stringify({}));
+
+		            $.post(`http://${resource}/NUIFocusOff`, JSON.stringify({}));
 		        }
+		    
 		    }
     	</script>
     </body>

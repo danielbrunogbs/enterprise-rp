@@ -1,64 +1,31 @@
 
 ================================================================
-======== txAdmin Starting - 12/1/2021, 10:33:02 PM              
+======== txAdmin Starting - 12/5/2021, 1:39:32 AM               
 ================================================================
 
 ================================================================
-======== Log Rotated - 12/1/2021, 10:33:03 PM                   
+======== Log Rotated - 12/5/2021, 1:39:33 AM                    
 ================================================================
 
 ================================================================
-======== txAdmin Starting - 12/1/2021, 10:38:16 PM              
+======== txAdmin Starting - 12/5/2021, 1:40:04 AM               
 ================================================================
-
-================================================================
-======== txAdmin Starting - 12/1/2021, 10:46:32 PM              
-================================================================
-
-================================================================
-======== txAdmin Starting - 12/1/2021, 10:49:37 PM              
-================================================================
-[22:59:13] [FixpolBR] logged in from 127.0.0.1 via password
-[22:59:28] [FixpolBR] ensure "mysql-async"
-[22:59:35] [FixpolBR] ensure "mysql-async"
-[23:00:52] [FixpolBR] ensure "mysql-async"
-[23:00:59] [FixpolBR] ensure "mysql-async"
-[23:01:37] [FixpolBR] ensure "mysql-async"
-[23:01:57] [FixpolBR] ensure "mysql-async"
-[23:02:06] [FixpolBR] ensure "mysql-async"
-[23:02:58] [FixpolBR] RESTART SERVER
-[23:03:52] [FixpolBR] RESTART SERVER
-[23:04:15] [FixpolBR] RESTART SERVER
-[23:05:27] [FixpolBR] RESTART SERVER
-[23:06:02] [FixpolBR] RESTART SERVER
-[23:06:29] [FixpolBR] RESTART SERVER
-[23:08:02] [FixpolBR] RESTART SERVER
-[23:14:40] [FixpolBR] RESTART SERVER
-[23:19:15] [FixpolBR] RESTART SERVER
-[23:20:59] [FixpolBR] RESTART SERVER
-
-================================================================
-======== txAdmin Starting - 12/1/2021, 11:22:41 PM              
-================================================================
-[23:22:48] [FixpolBR] logged in from 127.0.0.1 via password
-[23:27:15] [FixpolBR] RESTART SERVER
-[23:30:23] [FixpolBR] STOP SERVER
-
-================================================================
-======== txAdmin Starting - 12/1/2021, 11:31:05 PM              
-================================================================
-[23:42:45] [FixpolBR] logged in from 127.0.0.1 via password
-[00:02:40] [FixpolBR] RESTART SERVER
-[00:12:43] [FixpolBR] ensure "ferrari"
-[00:13:02] [FixpolBR] RESTART SERVER
-[00:28:22] [FixpolBR] refresh
-[00:29:10] [FixpolBR] refresh
-[00:29:20] [FixpolBR] ensure "porsche_cayman"
-[00:29:23] [FixpolBR] ensure "porsche_panamera"
-[00:32:14] [FixpolBR] ensure "porsche_panamera"
-[01:19:11] [FixpolBR] refresh
-[01:19:20] [FixpolBR] ensure "audi_rs6"
-[01:19:23] [FixpolBR] ensure "gtr_r35"
-[01:19:25] [FixpolBR] ensure "ninjah2"
-[01:27:57] [FixpolBR] stop "CarCommand"
-[01:30:16] [FixpolBR] STOP SERVER
+[01:55:28] [FixpolBR] logged in from 127.0.0.1 via password
+[01:55:37] [FixpolBR] ensure "new-banking"
+[01:55:57] [FixpolBR] RESTART SERVER
+[02:02:45] [FixpolBR] ensure "new-banking"
+[02:06:10] [FixpolBR] ensure "new-banking"
+[02:10:05] [FixpolBR] ensure "new-banking"
+[02:32:38] [FixpolBR] ensure "new-banking"
+[02:33:20] [FixpolBR] ensure "new-banking"
+[02:37:26] [FixpolBR] ensure "new-banking"
+[02:38:43] [FixpolBR] ensure "new-banking"
+[02:42:29] [FixpolBR] ensure "new-banking"
+[02:46:47] [FixpolBR] ensure "new-banking"
+[02:47:38] [FixpolBR] ensure "new-banking"
+[02:48:38] [FixpolBR] ensure "new-banking"
+[02:49:35] [FixpolBR] ensure "new-banking"
+[02:49:50] [FixpolBR] RESTART SERVER
+[02:58:00] [FixpolBR] ensure "new-banking"
+[03:09:14] [FixpolBR] RESTART SERVER
+[03:30:43] [FixpolBR] RESTART SERVER
