@@ -29,3 +29,43 @@
 [02:58:00] [FixpolBR] ensure "new-banking"
 [03:09:14] [FixpolBR] RESTART SERVER
 [03:30:43] [FixpolBR] RESTART SERVER
+
+================================================================
+======== txAdmin Starting - 12/5/2021, 9:21:15 PM               
+================================================================
+[21:21:26] [FixpolBR] logged in from 127.0.0.1 via password
+
+================================================================
+======== txAdmin Starting - 12/5/2021, 9:32:28 PM               
+================================================================
+[21:43:11] [FixpolBR] logged in from 127.0.0.1 via password
+[21:43:23] [FixpolBR] ensure "vRP"
+[21:44:01] [FixpolBR] ensure "vRP"
+[21:54:04] [FixpolBR] ensure "vRP"
+[21:54:22] [FixpolBR] ensure "vRP"
+[21:55:58] [FixpolBR] ensure "vRP"
+[21:56:40] [FixpolBR] ensure "vRP"
+[21:57:22] [FixpolBR] ensure "vRP"
+[22:00:23] [FixpolBR] ensure "vRP"
+[22:00:46] [FixpolBR] RESTART SERVER
+
+================================================================
+======== txAdmin Starting - 12/5/2021, 10:06:12 PM              
+================================================================
+[22:06:19] [FixpolBR] logged in from 127.0.0.1 via password
+[22:06:42] [FixpolBR] RESTART SERVER
+[22:11:41] [FixpolBR] RESTART SERVER
+[22:25:19] [FixpolBR] RESTART SERVER
+[22:27:09] [FixpolBR] RESTART SERVER
+[22:28:10] [FixpolBR] RESTART SERVER
+[22:29:15] [FixpolBR] RESTART SERVER
+[22:29:44] [FixpolBR] RESTART SERVER
+[22:34:34] [FixpolBR] RESTART SERVER
+[22:37:07] [FixpolBR] RESTART SERVER
+[22:44:29] [FixpolBR] RESTART SERVER
+[22:56:16] [FixpolBR] RESTART SERVER
+[23:23:14] [FixpolBR] ensure "porsche_taycan"
+[23:25:30] [FixpolBR] ensure "porsche_taycan"
+[23:31:48] [FixpolBR] RESTART SERVER
+[23:41:35] [FixpolBR] RESTART SERVER
+[23:58:15] [FixpolBR] RESTART SERVER

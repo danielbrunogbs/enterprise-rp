@@ -1,0 +1,7 @@
+{
+    "user": "fivem",
+    "password": "a1b2c3",
+    "host": "localhost",
+    "port": 3306,
+    "database": "es_extended"
+}
