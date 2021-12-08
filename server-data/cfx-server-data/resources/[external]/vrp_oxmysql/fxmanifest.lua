@@ -1,11 +1,11 @@
 fx_version "adamant"
 games {"gta5"}
 
-description "vRP GHMattiMySQL db driver bridge"
+description "vRP oxmysql db driver bridge"
 
 dependencies{
   "vrp",
-  "GHMattiMySQL"
+  "oxmysql"
 }
 
 -- server scripts
